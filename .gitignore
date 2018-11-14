@@ -6,3 +6,6 @@
 
 # ignore ipython checkpoints
 .ipynb_checkpoints
+
+# big data folder
+/data/gutenberg
