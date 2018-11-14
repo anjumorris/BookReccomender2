@@ -1,0 +1,608 @@
+,book_title,author_name,book_location,word_count,sentence_count,sentence_length,polarity,subjectivity
+0,Great Catherine,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___Great Catherine.txt,14056,1779,7.901068015739179,0.04619160692624089,0.5280858187383041
+1,Short Cruises,William Wymark Jacobs,../data/gutenberg/William Wymark Jacobs___Short Cruises.txt,50905,3621,14.058271195802265,0.07141442681209823,0.4872103539239783
+2,Richard Dare's Venture,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___Richard Dare's Venture.txt,46998,4007,11.728974294983779,0.08273240450106599,0.475207758791263
+3,William Harvey And The Discovery Of The Circulation Of The Blood,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___William Harvey And The Discovery Of The Circulation Of The Blood.txt,8065,213,37.863849765258216,0.14838314463314453,0.4757305440439412
+4,Beyond,John Galsworthy,../data/gutenberg/John Galsworthy___Beyond.txt,118446,8497,13.939743438860775,0.054020980782011174,0.4929486818425749
+5,The Pawns Count,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___The Pawns Count.txt,71505,6200,11.533064516129032,0.08416187052908602,0.47733691591844524
+6,Nina Balatka,Anthony Trollope,../data/gutenberg/Anthony Trollope___Nina Balatka.txt,76718,4674,16.413778348309798,0.09696705623014858,0.5157571110407126
+7,"The Old Manse (From ""Mosses From An Old Manse"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___The Old Manse (From ""Mosses From An Old Manse"").txt",10925,363,30.096418732782368,0.11282209571508307,0.48066462705409446
+8,"The Three Sisters, Night Watches, Part 6",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Three Sisters, Night Watches, Part 6.txt",2950,179,16.480446927374302,-0.015295401936026949,0.4613247554914228
+9,The Mirror of the Sea,Joseph Conrad,../data/gutenberg/Joseph Conrad___The Mirror of the Sea.txt,60970,2673,22.809577254021697,0.0861730899157401,0.5087067589301107
+10,The Three Clerks,Anthony Trollope,../data/gutenberg/Anthony Trollope___The Three Clerks.txt,217249,10682,20.337858079011422,0.10496628128918643,0.5103907125476447
+11,Rose of Dutcher's Coolly,Hamlin Garland,../data/gutenberg/Hamlin Garland___Rose of Dutcher's Coolly.txt,88834,6183,14.367459162218987,0.1519068604295909,0.5519687018734588
+12,The Tale of Mrs. Tiggy-Winkle,Beatrix Potter,../data/gutenberg/Beatrix Potter___The Tale of Mrs. Tiggy-Winkle.txt,1365,96,14.21875,0.0322430889423077,0.47025488400488413
+13,Silas Marner,George Eliot,../data/gutenberg/George Eliot___Silas Marner.txt,73315,2634,27.834092634776006,0.08373678519650052,0.5023458398971745
+14,Scenes of Clerical Life,George Eliot,../data/gutenberg/George Eliot___Scenes of Clerical Life.txt,147214,6071,24.248723439301596,0.08253902393561187,0.5072092521244336
+15,Alexander the Great,Jacob Abbott,../data/gutenberg/Jacob Abbott___Alexander the Great.txt,53192,2251,23.63038649489116,0.12874784091639752,0.5222703725545759
+16,Our Mutual Friend,Charles Dickens,../data/gutenberg/Charles Dickens___Our Mutual Friend.txt,331663,20374,16.278737606753705,0.09167049870945343,0.5019324467486109
+17,Through the Eye of the Needle,William Dean Howells,../data/gutenberg/William Dean Howells___Through the Eye of the Needle.txt,69404,2630,26.3893536121673,0.11348288875545604,0.4883964851936599
+18,The Relics of General Chasse,Anthony Trollope,../data/gutenberg/Anthony Trollope___The Relics of General Chasse.txt,8087,447,18.0917225950783,0.12930464883085832,0.4798216981857532
+19,The Last Cruise of the Spitfire,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Last Cruise of the Spitfire.txt,47526,4232,11.23015122873346,0.07880606455127237,0.48855662288821294
+20,"A Tiger's Skin, The Lady of the Barge and Others, Part 8",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___A Tiger's Skin, The Lady of the Barge and Others, Part 8.txt",4692,226,20.761061946902654,0.07843543143848027,0.45357392268977653
+21,Tales Of Hearsay,Joseph Conrad,../data/gutenberg/Joseph Conrad___Tales Of Hearsay.txt,33739,2259,14.935369632580787,0.06519456314837382,0.4965358443285038
+22,Twenty-Five Village Sermons,Charles Kingsley,../data/gutenberg/Charles Kingsley___Twenty-Five Village Sermons.txt,69410,2332,29.764150943396228,0.13895479252259066,0.5657926343701581
+23,Evolution and Ethics and Other Essays,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___Evolution and Ethics and Other Essays.txt,97223,3376,28.79828199052133,0.10281919196185535,0.475910731335975
+24,Captain Stormfield's Visit to Heaven,Mark Twain,../data/gutenberg/Mark Twain___Captain Stormfield's Visit to Heaven.txt,15487,883,17.53907134767837,0.12195458897712809,0.4961083714001828
+25,My Aunt Margaret's Mirror,Sir Walter Scott,../data/gutenberg/Sir Walter Scott___My Aunt Margaret's Mirror.txt,13543,482,28.097510373443985,0.09882552340217414,0.5022504296018442
+26,"The Guardian Angel, Ship's Company, Part 7",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Guardian Angel, Ship's Company, Part 7.txt",4363,264,16.526515151515152,0.05659653422993338,0.4589037181527303
+27,The Sea Lions,James Fenimore Cooper,../data/gutenberg/James Fenimore Cooper___The Sea Lions.txt,170566,6691,25.491854730234643,0.11058170572617716,0.4874054441267073
+28,American Notes,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___American Notes.txt,26644,1281,20.79937548790008,0.08394599861829154,0.45748142809726416
+29,The Research Magnificent,Herbert George Wells,../data/gutenberg/Herbert George Wells___The Research Magnificent.txt,112473,6923,16.246280514227937,0.0817572226455666,0.4930930815893383
+30,"Autobiography of Benjamin Franklin, Version 2",Benjamin Franklin,"../data/gutenberg/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 2.txt",67487,2068,32.63394584139265,0.14727735759944593,0.4768185158753315
+31,The Island of Doctor Moreau,Herbert George Wells,../data/gutenberg/Herbert George Wells___The Island of Doctor Moreau.txt,44097,2942,14.988783140720598,-0.010182354158334404,0.4620386587544313
+32,Rollo on the Atlantic,Jacob Abbott,../data/gutenberg/Jacob Abbott___Rollo on the Atlantic.txt,47047,2506,18.773743016759777,0.08990856401593769,0.4924611110316284
+33,Scientific Essays and Lectures,Charles Kingsley,../data/gutenberg/Charles Kingsley___Scientific Essays and Lectures.txt,49356,1665,29.643243243243244,0.11341195693109658,0.5061519137361177
+34,Malvina of Brittany,Jerome Klapka Jerome,../data/gutenberg/Jerome Klapka Jerome___Malvina of Brittany.txt,54760,3887,14.087985593002315,0.07075082789837207,0.4765271332778043
+35,"Captains All, Part 1",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Captains All, Part 1.txt",4528,252,17.96825396825397,0.10491668012750113,0.4450524218733175
+36,Charles Dickens' Children Stories,Charles Dickens,../data/gutenberg/Charles Dickens___Charles Dickens' Children Stories.txt,19145,1022,18.732876712328768,0.07881433558674478,0.5472371229913102
+37,The Battle of Life,Charles Dickens,../data/gutenberg/Charles Dickens___The Battle of Life.txt,30171,1927,15.656979761286975,0.15178957682949068,0.5159663032241733
+38,War and the Future,Herbert George Wells,../data/gutenberg/Herbert George Wells___War and the Future.txt,61824,2748,22.497816593886462,0.078033991386883,0.43771283043817877
+39,Barchester Towers,Anthony Trollope,../data/gutenberg/Anthony Trollope___Barchester Towers.txt,200687,10330,19.42758954501452,0.11705843366130644,0.5246580905254964
+40,Love of Life and Other Stories,Jack London,../data/gutenberg/Jack London___Love of Life and Other Stories.txt,49185,3645,13.493827160493828,0.04561417317587015,0.46823299428805254
+41,"A Mixed Proposal, The Lady of the Barge and Others, Part 9",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___A Mixed Proposal, The Lady of the Barge and Others, Part 9.txt",3783,285,13.273684210526316,0.0835054141781573,0.514464527884667
+42,The Rover Boys at Colby Hall,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Rover Boys at Colby Hall.txt,63871,4905,13.021610601427115,0.08875794062543138,0.4437206921866032
+43,Mary Louise,Lyman Frank Baum,../data/gutenberg/Lyman Frank Baum___Mary Louise.txt,47432,2930,16.18839590443686,0.12440121211959859,0.5165357163024329
+44,Ranching for Sylvia,Harold Bindloss,../data/gutenberg/Harold Bindloss___Ranching for Sylvia.txt,102045,6665,15.310577644411103,0.0512331878010862,0.4958011860888182
+45,"An Answer to a Question that Nobody thinks of, viz., But what if the Queen should Die?",Daniel Defoe,"../data/gutenberg/Daniel Defoe___An Answer to a Question that Nobody thinks of, viz., But what if the Queen should Die?.txt",9014,174,51.804597701149426,0.12477484918630757,0.4709996943642771
+46,Stalky & Co,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___Stalky & Co.txt,67979,6193,10.976747941223962,0.05399342815405281,0.47709190475849933
+47,Hunted and Harried,R M Ballantyne,../data/gutenberg/R M Ballantyne___Hunted and Harried.txt,44750,2122,21.088595664467483,0.04897576365568498,0.48896963384111564
+48,Tales of Fishes,Zane Grey,../data/gutenberg/Zane Grey___Tales of Fishes.txt,76478,5296,14.44070996978852,0.0895743151234492,0.48407338297894115
+49,Westward Ho!,Charles Kingsley,../data/gutenberg/Charles Kingsley___Westward Ho!.txt,255142,11691,21.82379608245659,0.10601355157826474,0.4944147358837794
+50,Jeanne of the Marshes,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___Jeanne of the Marshes.txt,77621,6581,11.79471204984045,0.06426760243244077,0.5034944447753467
+51,The Ancient Allan,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___The Ancient Allan.txt,89560,4356,20.560146923783286,0.12808576852512607,0.5061846678409684
+52,"Two Years Ago, Volume II",Charles Kingsley,"../data/gutenberg/Charles Kingsley___Two Years Ago, Volume II.txt",112559,6929,16.244624043873575,0.08197850528127923,0.5094012574310283
+53,Wessex Poems and Other Verses,Thomas Hardy,../data/gutenberg/Thomas Hardy___Wessex Poems and Other Verses.txt,15196,799,19.01877346683354,0.08114060940352841,0.4868609907576391
+54,Dick in the Desert,James Otis,../data/gutenberg/James Otis___Dick in the Desert.txt,18593,769,24.17815344603381,0.09230946749027931,0.49346075818400575
+55,Mother West Wind's Animal Friends,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___Mother West Wind's Animal Friends.txt,25762,1799,14.32017787659811,0.04321301455376586,0.4431657956641059
+56,Peter Bell the Third,P B Shelley,../data/gutenberg/P B Shelley___Peter Bell the Third.txt,6155,377,16.3262599469496,0.0412191645312534,0.4760016816760236
+57,On the Choice of Books,Thomas Carlyle,../data/gutenberg/Thomas Carlyle___On the Choice of Books.txt,37366,1507,24.79495686794957,0.17194940484337595,0.49230693780106677
+58,"The Money Box, Odd Craft, Part 1",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Money Box, Odd Craft, Part 1.txt",4574,242,18.90082644628099,0.039774119430159655,0.42409962520700795
+59,The Puzzle of Dickens's Last Plot,Andrew Lang,../data/gutenberg/Andrew Lang___The Puzzle of Dickens's Last Plot.txt,15008,712,21.078651685393258,0.049948496936084906,0.4818410446222385
+60,Joy,John Galsworthy,../data/gutenberg/John Galsworthy___Joy.txt,19665,3549,5.540997464074387,0.20843610792789696,0.4632135469728319
+61,"Monsieur du Muroir (From ""Mosses From An Old Manse"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___Monsieur du Muroir (From ""Mosses From An Old Manse"").txt",4328,140,30.914285714285715,0.08742851418011459,0.523103269895723
+62,"The Redskins; or, Indian and Injin, Volume 1",James Fenimore Cooper,"../data/gutenberg/James Fenimore Cooper___The Redskins; or, Indian and Injin, Volume 1.txt",99254,4081,24.32099975496202,0.12859757230257277,0.49104073171469254
+63,The Tremendous Adventures of Major Gahagan,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___The Tremendous Adventures of Major Gahagan.txt,28644,1330,21.53684210526316,0.09120639351492865,0.49861357100610715
+64,Utilitarianism,John Stuart Mill,../data/gutenberg/John Stuart Mill___Utilitarianism.txt,27708,707,39.19094766619519,0.13471569897662525,0.48122293207957595
+65,The Red Rover,James Fenimore Cooper,../data/gutenberg/James Fenimore Cooper___The Red Rover.txt,166773,7111,23.452819575305863,0.0950871743412779,0.5048900799047641
+66,A Modern Instance,William Dean Howells,../data/gutenberg/William Dean Howells___A Modern Instance.txt,160035,9545,16.766369827134625,0.10255091226708112,0.4949917542510904
+67,Discoveries,William Butler Yeats,../data/gutenberg/William Butler Yeats___Discoveries.txt,10758,273,39.40659340659341,0.12866171046232205,0.5112552507435699
+68,How Tell a Story and Others,Mark Twain,../data/gutenberg/Mark Twain___How Tell a Story and Others.txt,7457,331,22.52870090634441,0.09535018789352298,0.4626397083818963
+69,Mr. Spaceship,Philip Kindred Dick,../data/gutenberg/Philip Kindred Dick___Mr. Spaceship.txt,10838,1360,7.969117647058823,0.049782850292436585,0.41752181079375794
+70,The Pied Piper of Hamelin,Robert Browning,../data/gutenberg/Robert Browning___The Pied Piper of Hamelin.txt,2209,92,24.01086956521739,0.10345864808977939,0.48275459772295204
+71,Indiscretions of Archie,P G Wodehouse,../data/gutenberg/P G Wodehouse___Indiscretions of Archie.txt,75161,6762,11.115202602780242,0.10340939970352916,0.48691633730368356
+72,The Sea-Hawk,Rafael Sabatini,../data/gutenberg/Rafael Sabatini___The Sea-Hawk.txt,120638,7817,15.432774721760266,0.05609125772374246,0.4983704450335321
+73,The Sea Lady,Herbert George Wells,../data/gutenberg/Herbert George Wells___The Sea Lady.txt,40913,3221,12.701955914312325,0.0909893912190012,0.5014421299159951
+74,The Disentanglers,Andrew Lang,../data/gutenberg/Andrew Lang___The Disentanglers.txt,105795,7747,13.656254033819543,0.08814173767066845,0.5006623909497648
+75,The White Man's Foot,Grant Allen,../data/gutenberg/Grant Allen___The White Man's Foot.txt,35127,2035,17.26142506142506,0.056392068080277885,0.49613649309134394
+76,"History of Friedrich II of Prussia, Volume 7",Thomas Carlyle,"../data/gutenberg/Thomas Carlyle___History of Friedrich II of Prussia, Volume 7.txt",47697,1936,24.636880165289256,0.06418731873886799,0.4765580288664728
+77,A Group of Noble Dames,Thomas Hardy,../data/gutenberg/Thomas Hardy___A Group of Noble Dames.txt,69941,3232,21.64016089108911,0.07505022563266178,0.4866656867173302
+78,The Pink Fairy Book,Andrew Lang,../data/gutenberg/Andrew Lang___The Pink Fairy Book.txt,99142,5158,19.221015897634743,0.11220311432912834,0.48777343687421093
+79,"Four Pigeons, Captains All, Book 7",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Four Pigeons, Captains All, Book 7.txt",4216,226,18.654867256637168,0.08119090288445127,0.4781000739602891
+80,Dave Porter on Cave Island,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___Dave Porter on Cave Island.txt,68389,3502,19.528555111364934,0.0758743543756681,0.4473709384473363
+81,I and My Chimney,Herman Melville,../data/gutenberg/Herman Melville___I and My Chimney.txt,11458,504,22.734126984126984,0.0804362160503145,0.4639555478436279
+82,Their Wedding Journey,William Dean Howells,../data/gutenberg/William Dean Howells___Their Wedding Journey.txt,74677,2680,27.86455223880597,0.10004167607549654,0.497426088337448
+83,Marco Paul's Voyages and Travels; Vermont,Jacob Abbott,../data/gutenberg/Jacob Abbott___Marco Paul's Voyages and Travels; Vermont.txt,39260,2206,17.796917497733453,0.09876875163106218,0.48042088557082746
+84,May Flowers,Louisa May Alcott,../data/gutenberg/Louisa May Alcott___May Flowers.txt,12807,478,26.792887029288703,0.13617255014024635,0.5387769208676124
+85,Back to Methuselah,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___Back to Methuselah.txt,113296,10080,11.239682539682539,0.07133457427322655,0.5086336082414302
+86,The Job,Sinclair Lewis,../data/gutenberg/Sinclair Lewis___The Job.txt,93061,4778,19.47697781498535,0.09785509737783266,0.5032843110805156
+87,A Kidnapped Santa Claus,Lyman Frank Baum,../data/gutenberg/Lyman Frank Baum___A Kidnapped Santa Claus.txt,3777,180,20.983333333333334,0.1111766509949002,0.5640170676669195
+88,Mariposilla,Mary Stewart Daggett,../data/gutenberg/Mary Stewart Daggett___Mariposilla.txt,45625,2487,18.34539605950945,0.15613085165237944,0.558756302852965
+89,Finger Prints,Sir Francis Galton,../data/gutenberg/Sir Francis Galton___Finger Prints.txt,57520,2256,25.49645390070922,0.07668413648783777,0.43446051022871185
+90,"Following the Equator, Complete",Mark Twain,"../data/gutenberg/Mark Twain___Following the Equator, Complete.txt",191195,9251,20.667495405902066,0.10251340315282509,0.4716636472582813
+91,A Prairie Courtship,Harold Bindloss,../data/gutenberg/Harold Bindloss___A Prairie Courtship.txt,95789,5514,17.37196227783823,0.05276290370284636,0.47572470178522996
+92,Men's Wives,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___Men's Wives.txt,66860,2812,23.776671408250355,0.12486348263331228,0.49428985691285665
+93,David Copperfield,Charles Dickens,../data/gutenberg/Charles Dickens___David Copperfield.txt,361010,19628,18.39260240472794,0.11308074909969966,0.5024246743371027
+94,Modern Broods,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___Modern Broods.txt,77863,4035,19.296902106567533,0.1321387079316572,0.5203686513680597
+95,The Caged Lion,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___The Caged Lion.txt,108013,4469,24.16938912508391,0.11569056325345618,0.5108554629046382
+96,"The Works of Robert Louis Stevenson - Swanston Edition, Volume 9",Robert Louis Stevenson,"../data/gutenberg/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 9.txt",109078,3792,28.765295358649787,0.1252769677022316,0.4939269179699601
+97,The Secret Adversary,Agatha Christie,../data/gutenberg/Agatha Christie___The Secret Adversary.txt,77920,8052,9.677098857426726,0.06907798509604296,0.4907976260098306
+98,Love Among the Chickens,P G Wodehouse,../data/gutenberg/P G Wodehouse___Love Among the Chickens.txt,51581,4480,11.513616071428572,0.07339888451914515,0.49141332378330166
+99,Aunt Charlotte's Stories of Greek History,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___Aunt Charlotte's Stories of Greek History.txt,76301,2332,32.71912521440823,0.119299528462991,0.4869563966549583
+100,"Byron's Poetical Works, Vol. 1",Lord Byron,"../data/gutenberg/Lord Byron___Byron's Poetical Works, Vol. 1.txt",122730,7719,15.8997279440342,0.0903697969610917,0.46322415027698705
+101,Mortal Coils,Aldous Huxley,../data/gutenberg/Aldous Huxley___Mortal Coils.txt,40342,3808,10.594012605042018,0.058564747482660134,0.5189970348664809
+102,Charles I,Jacob Abbott,../data/gutenberg/Jacob Abbott___Charles I.txt,53544,2299,23.290126141800783,0.11196323672163865,0.49556317004355144
+103,Peter and Wendy,James Matthew Barrie,../data/gutenberg/James Matthew Barrie___Peter and Wendy.txt,47860,3283,14.578129759366433,0.08954772333414131,0.5240553094751901
+104,The Defenders,Philip Kindred Dick,../data/gutenberg/Philip Kindred Dick___The Defenders.txt,8722,951,9.171398527865405,0.027217630613407155,0.44990236375794984
+105,A Visit to Three Fronts,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___A Visit to Three Fronts.txt,14895,836,17.816985645933013,0.08852108249724859,0.4678776266930429
+106,Captain Brassbound's Conversion,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___Captain Brassbound's Conversion.txt,29071,3317,8.764244799517636,0.06397888415942955,0.4977408189819635
+107,The Rover Boys on the Farm,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Rover Boys on the Farm.txt,49976,4154,12.030813673567646,0.09876773138040737,0.45006698863481703
+108,The Gold Bat,P G Wodehouse,../data/gutenberg/P G Wodehouse___The Gold Bat.txt,44182,3581,12.337894442893047,0.06775031049943259,0.45882917455226363
+109,Down the Slope,James Otis,../data/gutenberg/James Otis___Down the Slope.txt,72089,4007,17.990766159221362,0.079910200128808,0.48434913195900575
+110,The Zeppelin's Passenger,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___The Zeppelin's Passenger.txt,63566,5618,11.314702741189036,0.07075192657249821,0.5026389306467318
+111,End of the Tether,Joseph Conrad,../data/gutenberg/Joseph Conrad___End of the Tether.txt,53050,3270,16.223241590214066,0.049020213472360026,0.4776726193143275
+112,O'Flaherty V. C,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___O'Flaherty V. C.txt,9491,809,11.73176761433869,0.09882016454581,0.47305276694578274
+113,Falk,Joseph Conrad,../data/gutenberg/Joseph Conrad___Falk.txt,31028,1870,16.59251336898396,0.03899330539873011,0.49935299030369457
+114,Armadale,Wilkie Collins,../data/gutenberg/Wilkie Collins___Armadale.txt,302366,17234,17.54473714749913,0.06488457129768917,0.4806199488038977
+115,Grass of Parnassus,Andrew Lang,../data/gutenberg/Andrew Lang___Grass of Parnassus.txt,12695,536,23.684701492537314,0.13505231064690168,0.5198783566634392
+116,Jack and Jill,Louisa May Alcott,../data/gutenberg/Louisa May Alcott___Jack and Jill.txt,94553,3958,23.88908539666498,0.15701278450256181,0.5252418317247454
+117,Short Stories and Essays,William Dean Howells,../data/gutenberg/William Dean Howells___Short Stories and Essays.txt,52624,1659,31.720313441832428,0.10447635380302585,0.49309708624346077
+118,Chasing the Sun,R M Ballantyne,../data/gutenberg/R M Ballantyne___Chasing the Sun.txt,26857,1446,18.573305670816044,0.0950017045241257,0.4887456502090907
+119,Child of Storm,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Child of Storm.txt,94960,4541,20.9116934595904,0.08888843659499723,0.49309711999386047
+120,The Master Key,Lyman Frank Baum,../data/gutenberg/Lyman Frank Baum___The Master Key.txt,35458,1894,18.721224920802534,0.10328975105053821,0.5170798693397335
+121,Moon-Face and Other Stories,Jack London,../data/gutenberg/Jack London___Moon-Face and Other Stories.txt,48698,3639,13.382247870294037,0.07574152030498679,0.48578134566437037
+122,The Shadow-Line,Joseph Conrad,../data/gutenberg/Joseph Conrad___The Shadow-Line.txt,40145,3116,12.883504492939666,0.03242855682232877,0.5222522748993698
+123,Lectures Delivered in America in 1874,Charles Kingsley,../data/gutenberg/Charles Kingsley___Lectures Delivered in America in 1874.txt,35484,1145,30.990393013100437,0.1213864893074197,0.498481050301983
+124,At the Point of the Bayonet,George Alfred Henty,../data/gutenberg/George Alfred Henty___At the Point of the Bayonet.txt,135247,6235,21.6915797914996,0.1038678435591348,0.4593991269047709
+125,How to Fail in Literature,Andrew Lang,../data/gutenberg/Andrew Lang___How to Fail in Literature.txt,9328,379,24.612137203166228,0.07935418889212163,0.5030877769548845
+126,The Crimes of England,G K Chesterton,../data/gutenberg/G K Chesterton___The Crimes of England.txt,31062,1239,25.070217917675546,0.07980642977819966,0.4513533181641789
+127,Caleb in the Country,Jacob Abbott,../data/gutenberg/Jacob Abbott___Caleb in the Country.txt,29391,1700,17.288823529411765,0.08530407292966144,0.4903649095491917
+128,Won by the Sword,George Alfred Henty,../data/gutenberg/George Alfred Henty___Won by the Sword.txt,129569,5639,22.97730093988296,0.10779281571319628,0.47093030267617336
+129,At Last,Charles Kingsley,../data/gutenberg/Charles Kingsley___At Last.txt,153847,5007,30.726383063710806,0.08930233507982858,0.4713737816283167
+130,Main Street,Sinclair Lewis,../data/gutenberg/Sinclair Lewis___Main Street.txt,171519,11974,14.324285952897945,0.10021379965246065,0.5043380085272775
+131,Whirligigs,O Henry,../data/gutenberg/O Henry___Whirligigs.txt,76770,5240,14.650763358778626,0.07944824944472098,0.4681944625444973
+132,The Rover Boys out West,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Rover Boys out West.txt,48696,3925,12.406624203821655,0.06691947669054511,0.44736706585859604
+133,The Foundations,John Galsworthy,../data/gutenberg/John Galsworthy___The Foundations.txt,20470,2903,7.051326214261109,0.060362778338486134,0.4831255897763534
+134,"Critical Miscellanies, Volume 2, Essay 2, Turgot",John Morley,"../data/gutenberg/John Morley___Critical Miscellanies, Volume 2, Essay 2, Turgot.txt",32120,1188,27.037037037037038,0.11633832948278071,0.490017794941266
+135,Quality Street,James Matthew Barrie,../data/gutenberg/James Matthew Barrie___Quality Street.txt,21282,2738,7.772826880934989,0.09763590446961698,0.5376098940067899
+136,"The Works of Robert Louis Stevenson - Swanston Edition, Volume 8",Robert Louis Stevenson,"../data/gutenberg/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 8.txt",87364,5311,16.44963283750706,0.08566154278408114,0.48515584314435145
+137,The March Family Trilogy,William Dean Howells,../data/gutenberg/William Dean Howells___The March Family Trilogy.txt,398917,19089,20.897742155167897,0.10415065522829878,0.48513176079905707
+138,"Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 1",Sir Richard Francis Burton,"../data/gutenberg/Sir Richard Francis Burton___Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 1.txt",58908,2318,25.413287316652287,0.06715783837840321,0.44149695582741944
+139,Fighting in Cuban Waters,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___Fighting in Cuban Waters.txt,66895,4339,15.41714680802028,0.07706884753703358,0.43472907557479956
+140,"The Works of Robert Louis Stevenson - Swanston Edition, Volume 7",Robert Louis Stevenson,"../data/gutenberg/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 7.txt",121808,8060,15.112655086848635,0.09288517304265585,0.50282755300893
+141,The Elusive Pimpernel,Baronness Orczy,../data/gutenberg/Baronness Orczy___The Elusive Pimpernel.txt,84156,4132,20.366892545982576,0.08496261347319489,0.5186877989008499
+142,Captain Bayley's Heir,George Alfred Henty,../data/gutenberg/George Alfred Henty___Captain Bayley's Heir.txt,129032,5667,22.76901358743603,0.1092819074484018,0.48382323024479124
+143,"Deserted, Sailor's Knots, Part 1",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Deserted, Sailor's Knots, Part 1.txt",4176,206,20.271844660194176,0.03677120004941016,0.457198597986536
+144,Plain Tales from the Hills,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___Plain Tales from the Hills.txt,73093,3919,18.650931360040826,0.06665775709206938,0.47955027000253664
+145,Riders of the Purple Sage,Zane Grey,../data/gutenberg/Zane Grey___Riders of the Purple Sage.txt,107420,8378,12.82167581761757,0.049404871465392096,0.48847251719913565
+146,Home as Found,James Fenimore Cooper,../data/gutenberg/James Fenimore Cooper___Home as Found.txt,156848,6286,24.95195672923958,0.13199461703781032,0.4900993410751377
+147,Mr. Stubbs's Brother,James Otis,../data/gutenberg/James Otis___Mr. Stubbs's Brother.txt,39456,1187,33.24010109519798,0.09755632350519236,0.4866166155499141
+148,The Interpreters of Genesis and the Interpreters of Nature,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___The Interpreters of Genesis and the Interpreters of Nature.txt,5809,170,34.17058823529412,0.1385792762915824,0.4715547018884053
+149,"The Writings of Abraham Lincoln, Volume 3",Abraham Lincoln,"../data/gutenberg/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 3.txt",45894,1735,26.451873198847263,0.10733625077555671,0.47408766976345973
+150,The Young Bridge-Tender,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Young Bridge-Tender.txt,55809,4967,11.235957318300786,0.07882635996753057,0.46371576574855994
+151,The Green Flag,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___The Green Flag.txt,76269,4805,15.872840790842872,0.0662234761603696,0.46994979051966845
+152,"The Vision of Sir Launfal And Other Poems, Version 2",James Russell Lowell,"../data/gutenberg/James Russell Lowell___The Vision of Sir Launfal And Other Poems, Version 2.txt",26078,1093,23.859103385178408,0.10737325209830541,0.48379258565160893
+153,The Mutiny of the Elsinore,Jack London,../data/gutenberg/Jack London___The Mutiny of the Elsinore.txt,114981,7598,15.133061331929454,0.05325319534328003,0.4678991178618695
+154,The Elevator,William Dean Howells,../data/gutenberg/William Dean Howells___The Elevator.txt,8800,967,9.100310237849017,0.09864225517729938,0.5438747534341797
+155,The Adventure of the Dying Detective,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___The Adventure of the Dying Detective.txt,5870,553,10.61482820976492,0.023328341621458706,0.5307081742683007
+156,Strife,John Galsworthy,../data/gutenberg/John Galsworthy___Strife.txt,23469,3555,6.60168776371308,0.0011699395274223732,0.4924545484481604
+157,"The Poetical Works of William Wordsworth, Volume 4",William Wordsworth,"../data/gutenberg/William Wordsworth___The Poetical Works of William Wordsworth, Volume 4.txt",79793,3892,20.50179856115108,0.12426517207842909,0.48591944214538674
+158,"Critical Miscellanies, Volume 1, Essay 4, Macaulay",John Morley,"../data/gutenberg/John Morley___Critical Miscellanies, Volume 1, Essay 4, Macaulay.txt",10443,302,34.579470198675494,0.1623292833483445,0.5150994012504271
+159,Critiques and Addresses,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___Critiques and Addresses.txt,101511,3124,32.49391805377721,0.1048525219324568,0.45248363955250576
+160,Proserpine and Midas,Mary Shelley,../data/gutenberg/Mary Shelley___Proserpine and Midas.txt,17682,937,18.87086446104589,0.08567081208346042,0.48499746423946394
+161,Fantasia of the Unconscious,D H Lawrence,../data/gutenberg/D H Lawrence___Fantasia of the Unconscious.txt,63692,4116,15.47424684159378,0.14025692804641346,0.5132627642851487
+162,Flower Fables,Louisa May Alcott,../data/gutenberg/Louisa May Alcott___Flower Fables.txt,34247,1155,29.65108225108225,0.16792268814313735,0.5762272808236875
+163,A Little Swiss Sojourn,William Dean Howells,../data/gutenberg/William Dean Howells___A Little Swiss Sojourn.txt,15934,530,30.064150943396225,0.12088518520045687,0.4754113263585642
+164,That Stick,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___That Stick.txt,73725,3668,20.0995092693566,0.10847342042342091,0.5276390233835163
+165,The Works of Lord Byron. Vol. 6,Lord Byron,../data/gutenberg/Lord Byron___The Works of Lord Byron. Vol. 6.txt,194007,9816,19.764364303178485,0.10790392910968845,0.4836965606654731
+166,An Humble Proposal to the People of England,Daniel Defoe,../data/gutenberg/Daniel Defoe___An Humble Proposal to the People of England.txt,14322,263,54.456273764258555,0.1526562082748407,0.45381492587774386
+167,Tanglewood Tales,Nathaniel Hawthorne,../data/gutenberg/Nathaniel Hawthorne___Tanglewood Tales.txt,65905,2764,23.844066570188133,0.12779095492703643,0.5372096398001825
+168,Typhoon,Joseph Conrad,../data/gutenberg/Joseph Conrad___Typhoon.txt,31404,2281,13.767645769399387,0.01373847081628109,0.4851346460499301
+169,Lectures on Architecture and Painting,John Ruskin,../data/gutenberg/John Ruskin___Lectures on Architecture and Painting.txt,48221,1653,29.171808832425892,0.14289598513902346,0.5019340120605228
+170,The Gorgon's Head,Nathaniel Hawthorne,../data/gutenberg/Nathaniel Hawthorne___The Gorgon's Head.txt,10732,528,20.325757575757574,0.14477709149096868,0.5655037504828727
+171,"England, My England",D H Lawrence,"../data/gutenberg/D H Lawrence___England, My England.txt",65647,5884,11.1568660774983,0.04212702224707833,0.4986143000711031
+172,Masters of the Wheat-Lands,Harold Bindloss,../data/gutenberg/Harold Bindloss___Masters of the Wheat-Lands.txt,108438,6716,16.146217986896964,0.041500622356122216,0.4745522225803975
+173,Second Treatise of Government,John Locke,../data/gutenberg/John Locke___Second Treatise of Government.txt,56699,1641,34.551492992078,0.12833751626403003,0.5005224289086877
+174,Some Rambling Notes of an Idle Excursion,Mark Twain,../data/gutenberg/Mark Twain___Some Rambling Notes of an Idle Excursion.txt,16644,909,18.31023102310231,0.09132543954030087,0.467867545774172
+175,The Duchess of Padua,Oscar Wilde,../data/gutenberg/Oscar Wilde___The Duchess of Padua.txt,22638,1559,14.520846696600385,0.0756640439602021,0.493223917774379
+176,The O'Conors of Castle Conor from Tales from all Countries,Anthony Trollope,../data/gutenberg/Anthony Trollope___The O'Conors of Castle Conor from Tales from all Countries.txt,7762,471,16.479830148619957,0.06279277241840699,0.49497026098548985
+177,The Lights of the Church and the Light of Science,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___The Lights of the Church and the Light of Science.txt,9471,269,35.20817843866171,0.09092690557042415,0.4434392130503238
+178,Ting-a-ling,Frank Richard Stockton,../data/gutenberg/Frank Richard Stockton___Ting-a-ling.txt,36214,1599,22.647904940587868,0.1360774073262426,0.5314940505678745
+179,"The Land of Midian, Volume 1",Sir Richard Francis Burton,"../data/gutenberg/Sir Richard Francis Burton___The Land of Midian, Volume 1.txt",81929,3918,20.910923940786116,0.059424308655984824,0.4330586242903961
+180,The Moon and Sixpence,William Somerset Maugham,../data/gutenberg/William Somerset Maugham___The Moon and Sixpence.txt,76103,5206,14.618325009604304,0.06579223908885891,0.5227920285685589
+181,Catherine: A Story,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___Catherine: A Story.txt,68796,2896,23.755524861878452,0.11424151971782458,0.5175009713602667
+182,"A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh",Daniel Defoe,"../data/gutenberg/Daniel Defoe___A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh.txt",16986,512,33.17578125,0.14490648848240367,0.48581692017801126
+183,"Autobiography of Benjamin Franklin, Version 1",Benjamin Franklin,"../data/gutenberg/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 1.txt",77499,2617,29.61367978601452,0.14349507113184382,0.4669560103725871
+184,"Buds and Bird Voices (From ""Mosses From An Old Manse"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___Buds and Bird Voices (From ""Mosses From An Old Manse"").txt",3433,129,26.612403100775193,0.09173330268845224,0.46847258500082434
+185,"Snow Flakes (From ""Twice Told Tales"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___Snow Flakes (From ""Twice Told Tales"").txt",1993,83,24.012048192771083,0.008927918101146447,0.45672452875208785
+186,Much Darker Days,Andrew Lang,../data/gutenberg/Andrew Lang___Much Darker Days.txt,14101,1051,13.41674595623216,0.05942690781970799,0.4757156152656992
+187,An Open-Eyed Conspiracy; An Idyl of Saratoga,William Dean Howells,../data/gutenberg/William Dean Howells___An Open-Eyed Conspiracy; An Idyl of Saratoga.txt,39341,1988,19.78923541247485,0.13019857478811311,0.5181253076633531
+188,Caesar's Wife,William Somerset Maugham,../data/gutenberg/William Somerset Maugham___Caesar's Wife.txt,27654,3832,7.216597077244259,0.14220784579405168,0.5710294813287434
+189,"The Adventures of Tom Sawyer, Complete",Mark Twain,"../data/gutenberg/Mark Twain___The Adventures of Tom Sawyer, Complete.txt",72755,4877,14.917982366208735,0.06423489254669795,0.4868635344357492
+190,The Fortunes of Nigel,Sir Walter Scott,../data/gutenberg/Sir Walter Scott___The Fortunes of Nigel.txt,201592,6828,29.52431165787932,0.11047504140928263,0.5160330471504377
+191,The Lost Princess of Oz,Lyman Frank Baum,../data/gutenberg/Lyman Frank Baum___The Lost Princess of Oz.txt,47792,2765,17.284629294755877,0.1418635731771694,0.5595248676328826
+192,Jill the Reckless,P G Wodehouse,../data/gutenberg/P G Wodehouse___Jill the Reckless.txt,115657,10122,11.42629915036554,0.08280584116493649,0.4956217334423495
+193,Mountain Interval,Robert Frost,../data/gutenberg/Robert Frost___Mountain Interval.txt,12136,749,16.20293724966622,0.06293231640850515,0.42679806271612475
+194,Captains All,William Wymark Jacobs,../data/gutenberg/William Wymark Jacobs___Captains All.txt,45797,2672,17.139595808383234,0.06657132362999561,0.47174763003588677
+195,"The Works of Robert Louis Stevenson - Swanston Edition, Volume 1",Robert Louis Stevenson,"../data/gutenberg/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 1.txt",116312,4729,24.595474730386975,0.10788484850123484,0.4912653197845908
+196,Orientations,William Somerset Maugham,../data/gutenberg/William Somerset Maugham___Orientations.txt,50536,3105,16.275684380032207,0.058064283646967606,0.4883251875649267
+197,The Lost Continent,Edgar Rice Burroughs,../data/gutenberg/Edgar Rice Burroughs___The Lost Continent.txt,38068,1941,19.612570839773312,0.07650203505247517,0.47119662626709763
+198,Proposed Roads To Freedom,Bertrand Russell,../data/gutenberg/Bertrand Russell___Proposed Roads To Freedom.txt,54766,2092,26.178776290630974,0.11986620998944643,0.4742472316540981
+199,The Explorer,William Somerset Maugham,../data/gutenberg/William Somerset Maugham___The Explorer.txt,79857,5562,14.357605177993527,0.09883088860433281,0.5407261622545835
+200,Elissa,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Elissa.txt,54366,2469,22.01944106925881,0.09753722447026286,0.5184467284643092
+201,Man on the Ocean,R M Ballantyne,../data/gutenberg/R M Ballantyne___Man on the Ocean.txt,53326,2073,25.72407139411481,0.10364717044734059,0.46041437552747116
+202,A Bundle of Letters,Henry James,../data/gutenberg/Henry James___A Bundle of Letters.txt,14198,604,23.50662251655629,0.14717432522023402,0.4982070799907156
+203,The Story of Sir Launcelot and His Companions,Howard Pyle,../data/gutenberg/Howard Pyle___The Story of Sir Launcelot and His Companions.txt,135025,4666,28.938062580368623,0.19650540985803963,0.5367241637175053
+204,Beatrice,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Beatrice.txt,113063,6895,16.397824510514866,0.07745748773690447,0.5093897500337139
+205,The Real Thing,Henry James,../data/gutenberg/Henry James___The Real Thing.txt,10732,514,20.879377431906615,0.11604999482976315,0.5068270041739865
+206,Thurston of Orchard Valley,Harold Bindloss,../data/gutenberg/Harold Bindloss___Thurston of Orchard Valley.txt,100388,5732,17.51360781577111,0.069598559766624,0.4852229088759209
+207,Messenger No. 48,James Otis,../data/gutenberg/James Otis___Messenger No. 48.txt,62280,3107,20.045059542967493,0.08091583856778163,0.46664802769166436
+208,The World of Ice,R M Ballantyne,../data/gutenberg/R M Ballantyne___The World of Ice.txt,78053,3385,23.058493353028066,0.06064313645218837,0.4858100378952743
+209,Roderick Hudson,Henry James,../data/gutenberg/Henry James___Roderick Hudson.txt,133280,8569,15.55374022639748,0.1262853165949416,0.5306826576051684
+210,The Point of View,Henry James,../data/gutenberg/Henry James___The Point of View.txt,20171,917,21.996728462377316,0.10144441580044586,0.5070100401609985
+211,The Haunted Hotel,Wilkie Collins,../data/gutenberg/Wilkie Collins___The Haunted Hotel.txt,63204,4327,14.606886988675758,0.05437380519668034,0.4929741540302524
+212,"Fire Worship (From ""Mosses From An Old Manse"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___Fire Worship (From ""Mosses From An Old Manse"").txt",3079,104,29.60576923076923,0.1101854218869428,0.5013367072302434
+213,White Fang,Jack London,../data/gutenberg/Jack London___White Fang.txt,72814,4798,15.175906627761567,0.04098824561835752,0.4260315073213379
+214,Tales of the Argonauts,Bret Harte,../data/gutenberg/Bret Harte___Tales of the Argonauts.txt,62016,3293,18.832675372001216,0.07296295031511689,0.48386690616246353
+215,Tremendous Trifles,G K Chesterton,../data/gutenberg/G K Chesterton___Tremendous Trifles.txt,56274,2690,20.919702602230483,0.06738205580803824,0.4905329980167386
+216,"The Works of Robert Louis Stevenson - Swanston Edition, Volume 19",Robert Louis Stevenson,"../data/gutenberg/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 19.txt",97748,6090,16.050574712643677,0.06909572184221884,0.4911038319732536
+217,Reviews,Oscar Wilde,../data/gutenberg/Oscar Wilde___Reviews.txt,164929,7049,23.397503191942118,0.1583703154741302,0.5271549648457472
+218,"The Castaway, Odd Craft, Part 2",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Castaway, Odd Craft, Part 2.txt",4631,350,13.231428571428571,0.0759408711763528,0.4768909867280976
+219,Fifty Bab Ballads,Sir William Schwenck Gilbert,../data/gutenberg/Sir William Schwenck Gilbert___Fifty Bab Ballads.txt,28808,1525,18.89049180327869,0.08244821967848474,0.5435643021437737
+220,Ned Myers,James Fenimore Cooper,../data/gutenberg/James Fenimore Cooper___Ned Myers.txt,96960,4590,21.124183006535947,0.08839422028791531,0.43856044138924877
+221,The Golden Web,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___The Golden Web.txt,74406,6199,12.002903694144218,0.05549949855592135,0.4945896347890249
+222,"Six Short Plays, Complete",John Galsworthy,"../data/gutenberg/John Galsworthy___Six Short Plays, Complete.txt",25412,4179,6.080880593443408,0.04812879624165226,0.43914688225781273
+223,The Three Mulla-mulgars,Walter de la Mare,../data/gutenberg/Walter de la Mare___The Three Mulla-mulgars.txt,68923,4028,17.110973187686195,0.031423288134481295,0.4804435909425517
+224,"The Works of the Right Honourable Edmund Burke, Vol. 12 (of 12)",Edmund Burke,"../data/gutenberg/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 12 (of 12).txt",135241,5884,22.98453433038749,0.08163832645923638,0.4958064449351109
+225,Typee,Herman Melville,../data/gutenberg/Herman Melville___Typee.txt,100539,3138,32.039196940726576,0.08894194958780176,0.4887519845690715
+226,The Cost of Kindness,Jerome Klapka Jerome,../data/gutenberg/Jerome Klapka Jerome___The Cost of Kindness.txt,3128,176,17.772727272727273,0.054186907863378465,0.5050652778593955
+227,The Settler and the Savage,R M Ballantyne,../data/gutenberg/R M Ballantyne___The Settler and the Savage.txt,92298,4292,21.504659832246038,0.07459006341812871,0.4722794786990456
+228,The Light of Western Stars,Zane Grey,../data/gutenberg/Zane Grey___The Light of Western Stars.txt,126590,9909,12.775254818851549,0.06096899075129552,0.49328633887013656
+229,The White Peacock,D H Lawrence,../data/gutenberg/D H Lawrence___The White Peacock.txt,125149,9925,12.609471032745592,0.05878474468274335,0.4811458393810501
+230,Essays in Little,Andrew Lang,../data/gutenberg/Andrew Lang___Essays in Little.txt,58594,2664,21.994744744744743,0.15982695293910604,0.5117422958434025
+231,"P.'s Correspondence (From ""Mosses From An Old Manse"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___P.'s Correspondence (From ""Mosses From An Old Manse"").txt",6835,268,25.503731343283583,0.08251001861594402,0.47653832233783494
+232,In the Days of the Comet,Herbert George Wells,../data/gutenberg/Herbert George Wells___In the Days of the Comet.txt,81967,5326,15.389973713856552,0.06248936054695218,0.49916728700214025
+233,Miscellaneous Pieces,John Bunyan,../data/gutenberg/John Bunyan___Miscellaneous Pieces.txt,7309,293,24.945392491467576,0.1474455253627052,0.5007616275350264
+234,Men of Iron,Howard Pyle,../data/gutenberg/Howard Pyle___Men of Iron.txt,68704,3210,21.403115264797506,0.08811362061411653,0.48736802233305243
+235,The Wild Man of the West,R M Ballantyne,../data/gutenberg/R M Ballantyne___The Wild Man of the West.txt,94949,4524,20.98784261715296,0.0778771764043727,0.48795808573303207
+236,A Short History of the World,Herbert George Wells,../data/gutenberg/Herbert George Wells___A Short History of the World.txt,117864,5350,22.030654205607476,0.1178894226485772,0.43265769316974695
+237,The Betrothed,Sir Walter Scott,../data/gutenberg/Sir Walter Scott___The Betrothed.txt,132253,4161,31.78394616678683,0.12207010765509607,0.5163358996260693
+238,Touch and Go,D H Lawrence,../data/gutenberg/D H Lawrence___Touch and Go.txt,24364,3481,6.999138178684286,0.08519642013258218,0.554502142262548
+239,"Myth, Ritual, and Religion, Vol. 1",Andrew Lang,"../data/gutenberg/Andrew Lang___Myth, Ritual, and Religion, Vol. 1.txt",104206,5256,19.826103500761036,0.09346948492223422,0.4364606120418471
+240,A Personal Record,Joseph Conrad,../data/gutenberg/Joseph Conrad___A Personal Record.txt,45875,2196,20.890255009107467,0.0976670496761921,0.4953162315067149
+241,Atalantis Major,Daniel Defoe,../data/gutenberg/Daniel Defoe___Atalantis Major.txt,14493,307,47.20846905537459,0.1416150595013827,0.5001866738944887
+242,All Things Considered,G K Chesterton,../data/gutenberg/G K Chesterton___All Things Considered.txt,59949,2749,21.807566387777374,0.0842377330854966,0.5031458486262157
+243,The Making of a Saint,William Somerset Maugham,../data/gutenberg/William Somerset Maugham___The Making of a Saint.txt,73414,5609,13.08860759493671,0.09955665023339841,0.5153169337256218
+244,The Seven Seas,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___The Seven Seas.txt,27344,1247,21.927826784282278,0.057758679105923916,0.4471568448505068
+245,Held Fast For England,George Alfred Henty,../data/gutenberg/George Alfred Henty___Held Fast For England.txt,121989,6606,18.466394187102633,0.10056326667405283,0.45511374664304904
+246,The Crown of Wild Olive,John Ruskin,../data/gutenberg/John Ruskin___The Crown of Wild Olive.txt,316175,11258,28.0844732634571,0.12070625303583786,0.49746909196001804
+247,"Cameos from English History, from Rollo to Edward II",Charlotte Mary Yonge,"../data/gutenberg/Charlotte Mary Yonge___Cameos from English History, from Rollo to Edward II.txt",190467,6832,27.87865925058548,0.09895419643090922,0.4837794999634848
+248,William Tell Told Again,P G Wodehouse,../data/gutenberg/P G Wodehouse___William Tell Told Again.txt,14882,1230,12.099186991869919,0.09448496955396012,0.4973686018940245
+249,Records of a Family of Engineers,Robert Louis Stevenson,../data/gutenberg/Robert Louis Stevenson___Records of a Family of Engineers.txt,66182,1828,36.20459518599562,0.11589512296252603,0.47382715592597113
+250,The Holy War,John Bunyan,../data/gutenberg/John Bunyan___The Holy War.txt,99007,3476,28.483026467203683,0.16310357514022855,0.5198496331011618
+251,The White Company,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___The White Company.txt,151768,8020,18.92369077306733,0.1016455576482066,0.46785151951051296
+252,Swallow,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Swallow.txt,107328,4004,26.805194805194805,0.06706926025269576,0.46635358827057904
+253,The Garotters,William Dean Howells,../data/gutenberg/William Dean Howells___The Garotters.txt,9950,836,11.901913875598087,0.0868303465169933,0.5329526307924363
+254,The Lady Of Blossholme,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___The Lady Of Blossholme.txt,95848,5067,18.916123939214526,0.06784058750354252,0.4951987045687461
+255,Island Nights' Entertainments,Robert Louis Stevenson,../data/gutenberg/Robert Louis Stevenson___Island Nights' Entertainments.txt,52283,2134,24.5,0.10496143544893541,0.486769610494612
+256,"Mardi: and A Voyage Thither, Volume 2",Herman Melville,"../data/gutenberg/Herman Melville___Mardi: and A Voyage Thither, Volume 2.txt",102461,6945,14.753203743700505,0.12417639891725775,0.49447944675343225
+257,Coleridge's Ancient Mariner and Select Poems,Samuel Taylor Coleridge,../data/gutenberg/Samuel Taylor Coleridge___Coleridge's Ancient Mariner and Select Poems.txt,33648,1511,22.2686962276638,0.1316830647567337,0.4775206238526348
+258,Auguste Comte and Positivism,John Stuart Mill,../data/gutenberg/John Stuart Mill___Auguste Comte and Positivism.txt,52937,1535,34.486644951140065,0.12099304316141081,0.45831082315776317
+259,"Modern Painters, Volume 3 (of 5)",John Ruskin,"../data/gutenberg/John Ruskin___Modern Painters, Volume 3 (of 5).txt",137073,4324,31.700508788159112,0.1317373704346785,0.5151526261443441
+260,"The Old Man of the Sea, Ship's Company, Part 11",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Old Man of the Sea, Ship's Company, Part 11.txt",4214,322,13.08695652173913,0.11753544262309513,0.450751647573294
+261,The Master of Mrs. Chilvers,Jerome Klapka Jerome,../data/gutenberg/Jerome Klapka Jerome___The Master of Mrs. Chilvers.txt,21763,2757,7.8937250634747915,0.11867218502616175,0.4999140289173099
+262,The Unbearable Bassington,Hector Hugh Munro,../data/gutenberg/Hector Hugh Munro___The Unbearable Bassington.txt,48329,1890,25.57089947089947,0.11357245149289806,0.49858347325147057
+263,Notes on Life and Letters,Joseph Conrad,../data/gutenberg/Joseph Conrad___Notes on Life and Letters.txt,79238,3448,22.980858468677493,0.10494817229535634,0.5030936694496845
+264,The Bravo,James Fenimore Cooper,../data/gutenberg/James Fenimore Cooper___The Bravo.txt,141004,7166,19.676807144850684,0.1105949847226304,0.5123066669499301
+265,Barry Lyndon,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___Barry Lyndon.txt,128551,4456,28.848967684021545,0.1187282204452504,0.5044223636727694
+266,"The Life and Adventures of Robinson Crusoe Of York, Mariner, Vol. 1",Daniel Defoe,"../data/gutenberg/Daniel Defoe___The Life and Adventures of Robinson Crusoe Of York, Mariner, Vol. 1.txt",124390,2339,53.18084651560496,0.10685309695288372,0.47920111190567355
+267,Under Wellington's Command,George Alfred Henty,../data/gutenberg/George Alfred Henty___Under Wellington's Command.txt,129573,5950,21.776974789915965,0.08773438868831908,0.4251846522417797
+268,The Life of William Ewart Gladstone (Vol 1 of 3),John Morley,../data/gutenberg/John Morley___The Life of William Ewart Gladstone (Vol 1 of 3).txt,255984,10647,24.04282896590589,0.12836245974791477,0.48060224013536146
+269,Scarborough and the Critic,Richard Brinsley Sheridan,../data/gutenberg/Richard Brinsley Sheridan___Scarborough and the Critic.txt,34503,3999,8.627906976744185,0.1649443507660774,0.5368353086284137
+270,My Friend The Murderer,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___My Friend The Murderer.txt,7523,409,18.39364303178484,0.016928867695006476,0.4675219912260533
+271,Roundabout Papers,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___Roundabout Papers.txt,122688,6509,18.84897833768628,0.11696234803314011,0.5205418306985106
+272,The Crimson Fairy Book,Andrew Lang,../data/gutenberg/Andrew Lang___The Crimson Fairy Book.txt,98523,4493,21.928110393946138,0.11922879512473597,0.4938354132861205
+273,The Complete Essays of John Galsworthy,John Galsworthy,../data/gutenberg/John Galsworthy___The Complete Essays of John Galsworthy.txt,58986,2668,22.108695652173914,0.06405495787799527,0.4901651555788088
+274,Books and Bookmen,Andrew Lang,../data/gutenberg/Andrew Lang___Books and Bookmen.txt,33308,1545,21.558576051779934,0.12792526790120992,0.4920021199360351
+275,Quentin Durward,Sir Walter Scott,../data/gutenberg/Sir Walter Scott___Quentin Durward.txt,186418,5854,31.844550734540483,0.1192173491132528,0.5226972743867193
+276,Black Heart and White Heart,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Black Heart and White Heart.txt,21812,1018,21.426326129666013,0.054879662310728446,0.46265149423697166
+277,The Tragic Muse,Henry James,../data/gutenberg/Henry James___The Tragic Muse.txt,219809,11872,18.514909029649594,0.12383541147902988,0.5213050950723433
+278,"The Abbot's Ghost, Or Maurice Treherne's Temptation",Louisa May Alcott,"../data/gutenberg/Louisa May Alcott___The Abbot's Ghost, Or Maurice Treherne's Temptation.txt",26268,1441,18.229007633587788,0.12158271799133132,0.5476521246571555
+279,The Clicking of Cuthbert,P G Wodehouse,../data/gutenberg/P G Wodehouse___The Clicking of Cuthbert.txt,62259,4827,12.898073337476694,0.07659210121356569,0.49489939097910013
+280,Volcanic Islands,Charles Darwin,../data/gutenberg/Charles Darwin___Volcanic Islands.txt,58091,2251,25.806752554420257,0.08806073210791358,0.42151003819367766
+281,The Bedford-Row Conspiracy,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___The Bedford-Row Conspiracy.txt,17964,835,21.51377245508982,0.10527056138039295,0.518770574980575
+282,The Great Impersonation,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___The Great Impersonation.txt,76389,5943,12.853609288238264,0.08353510905685732,0.4823377986503892
+283,John Knox and the Reformation,Andrew Lang,../data/gutenberg/Andrew Lang___John Knox and the Reformation.txt,82075,4430,18.52708803611738,0.06968929028715416,0.45536868479061293
+284,Coral and Coral Reefs,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___Coral and Coral Reefs.txt,7092,176,40.29545454545455,0.1421514487734487,0.47943269885669904
+285,The Ambassadors,Henry James,../data/gutenberg/Henry James___The Ambassadors.txt,168406,9317,18.075131480090157,0.13282047128407817,0.5079733387759909
+286,A Short History of England,G K Chesterton,../data/gutenberg/G K Chesterton___A Short History of England.txt,60822,2340,25.99230769230769,0.10685383007277481,0.46885362908304246
+287,The Little White Bird,James Matthew Barrie,../data/gutenberg/James Matthew Barrie___The Little White Bird.txt,66698,3099,21.52242658922233,0.08554097711734472,0.5106338661451854
+288,Vikram and the Vampire,Sir Richard Francis Burton,../data/gutenberg/Sir Richard Francis Burton___Vikram and the Vampire.txt,78431,3470,22.602593659942364,0.11923692468361817,0.5003353114661218
+289,Rollo in Naples,Jacob Abbott,../data/gutenberg/Jacob Abbott___Rollo in Naples.txt,41846,2179,19.20422212023864,0.13040922352060114,0.47630798016328624
+290,The Scarlet Letter,Nathaniel Hawthorne,../data/gutenberg/Nathaniel Hawthorne___The Scarlet Letter.txt,84900,3535,24.016973125884018,0.08749191565687943,0.49615507267083653
+291,The Adventures of Sally,P G Wodehouse,../data/gutenberg/P G Wodehouse___The Adventures of Sally.txt,79317,6378,12.436030103480714,0.07496343049528714,0.4948010708478092
+292,Long Odds,Harold Bindloss,../data/gutenberg/Harold Bindloss___Long Odds.txt,103422,5580,18.53440860215054,0.035352823184638865,0.4574134779674085
+293,Liza of Lambeth,William Somerset Maugham,../data/gutenberg/William Somerset Maugham___Liza of Lambeth.txt,37672,2754,13.679012345679013,0.06717460375441887,0.48002170960942886
+294,Ship's Company,William Wymark Jacobs,../data/gutenberg/William Wymark Jacobs___Ship's Company.txt,48096,3563,13.498737019365704,0.07113356946299598,0.4687194272194288
+295,Chapters from My Autobiography,Mark Twain,../data/gutenberg/Mark Twain___Chapters from My Autobiography.txt,111215,5135,21.658227848101266,0.10837431836589133,0.4872994435967846
+296,The Mystery at Putnam Hall,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Mystery at Putnam Hall.txt,55002,5197,10.583413507792958,0.0869674780545948,0.4631186909210723
+297,Before Adam,Jack London,../data/gutenberg/Jack London___Before Adam.txt,39198,2499,15.68547418967587,0.04585392030051724,0.46795602046677576
+298,Prince Prigio,Andrew Lang,../data/gutenberg/Andrew Lang___Prince Prigio.txt,17658,986,17.908722109533468,0.06814205418517824,0.5156894774346914
+299,The Girl on the Boat,P G Wodehouse,../data/gutenberg/P G Wodehouse___The Girl on the Boat.txt,69484,6097,11.396424471051336,0.08693021346502469,0.5104309600814652
+300,Far Away and Long Ago,William Henry Hudson,../data/gutenberg/William Henry Hudson___Far Away and Long Ago.txt,97726,2645,36.94744801512287,0.08544649473279016,0.481468198504688
+301,The Adventures of Paddy the Beaver,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___The Adventures of Paddy the Beaver.txt,16261,1087,14.959521619135234,0.10601566127961524,0.4846241931497479
+302,The Frozen Deep,Wilkie Collins,../data/gutenberg/Wilkie Collins___The Frozen Deep.txt,28704,2703,10.619311875693674,0.03210081153714076,0.5020413117331888
+303,Aunt Jane's Nieces at Millville,Lyman Frank Baum,../data/gutenberg/Lyman Frank Baum___Aunt Jane's Nieces at Millville.txt,50549,3315,15.248567119155354,0.10810394065946628,0.5090533430511425
+304,Twelve Types,G K Chesterton,../data/gutenberg/G K Chesterton___Twelve Types.txt,26409,1049,25.175405147759772,0.12026830982357548,0.5281417135566744
+305,The Descent of Man and Selection in Relation to Sex Volume II (1st Edition),Charles Darwin,../data/gutenberg/Charles Darwin___The Descent of Man and Selection in Relation to Sex Volume II (1st Edition).txt,167317,13947,11.99663009966301,0.11018326243335538,0.40334008763287565
+306,Buccaneers and Pirates of Our Coasts,Frank Richard Stockton,../data/gutenberg/Frank Richard Stockton___Buccaneers and Pirates of Our Coasts.txt,73979,2085,35.48153477218226,0.1246908846070686,0.5081899623563831
+307,A Damaged Reputation,Harold Bindloss,../data/gutenberg/Harold Bindloss___A Damaged Reputation.txt,102956,5832,17.65363511659808,0.05641795058637084,0.47433248033252884
+308,The Legacy of Cain,Wilkie Collins,../data/gutenberg/Wilkie Collins___The Legacy of Cain.txt,120810,8835,13.67402376910017,0.0658413312462017,0.5318926812720272
+309,Little Wizard Stories of Oz,Lyman Frank Baum,../data/gutenberg/Lyman Frank Baum___Little Wizard Stories of Oz.txt,11261,639,17.62284820031299,0.07557029859972823,0.5516814975148308
+310,The Problem of China,Bertrand Russell,../data/gutenberg/Bertrand Russell___The Problem of China.txt,72770,3041,23.929628411706677,0.09316706834648171,0.4010366800609284
+311,"Coleridge's Literary Remains, Volume 1",Samuel Taylor Coleridge,"../data/gutenberg/Samuel Taylor Coleridge___Coleridge's Literary Remains, Volume 1.txt",91273,4237,21.54189284871371,0.13156034403162445,0.49770680072347284
+312,Pygmalion,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___Pygmalion.txt,34720,3572,9.720044792833146,0.07226004796407746,0.5083710206194251
+313,On the Study of Zoology,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___On the Study of Zoology.txt,8070,222,36.351351351351354,0.15946073952801987,0.47121991106941535
+314,The Rise of Silas Lapham,William Dean Howells,../data/gutenberg/William Dean Howells___The Rise of Silas Lapham.txt,133126,8595,15.488772542175683,0.11180696821183689,0.49872852894361946
+315,Rollo in the Woods,Jacob Abbott,../data/gutenberg/Jacob Abbott___Rollo in the Woods.txt,4759,323,14.73374613003096,0.04545865918822324,0.47567784697893706
+316,Hunting Sketches,Anthony Trollope,../data/gutenberg/Anthony Trollope___Hunting Sketches.txt,19137,751,25.48202396804261,0.10219118232786019,0.4928357257890125
+317,Tales of the Fish Patrol,Jack London,../data/gutenberg/Jack London___Tales of the Fish Patrol.txt,31742,1703,18.638872577803877,0.050349768403745714,0.4402819342592071
+318,Burning Daylight,Jack London,../data/gutenberg/Jack London___Burning Daylight.txt,115024,7292,15.773998902907296,0.09070059745526862,0.4682703819571865
+319,Ann Veronica,Herbert George Wells,../data/gutenberg/Herbert George Wells___Ann Veronica.txt,98603,7202,13.691058039433491,0.0925696501833483,0.5271150092141138
+320,Darwinism,Alfred Russel Wallace,../data/gutenberg/Alfred Russel Wallace___Darwinism.txt,181164,5399,33.555102796814225,0.1200757546145278,0.45691461532192085
+321,The Landlord at Lion's Head,William Dean Howells,../data/gutenberg/William Dean Howells___The Landlord at Lion's Head.txt,120643,7026,17.1709365214916,0.11275096235818796,0.4906413846787553
+322,The Cricket on the Hearth,Charles Dickens,../data/gutenberg/Charles Dickens___The Cricket on the Hearth.txt,32993,2120,15.562735849056605,0.12412896142970221,0.5256656808636196
+323,By Shore and Sedge,Bret Harte,../data/gutenberg/Bret Harte___By Shore and Sedge.txt,42003,2340,17.95,0.028559564830543963,0.49365710235304516
+324,The Disappearance of Lady Frances Carfax,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___The Disappearance of Lady Frances Carfax.txt,7764,628,12.363057324840764,0.049249772578121936,0.47870694253469387
+325,Embarrassments,Henry James,../data/gutenberg/Henry James___Embarrassments.txt,62962,3011,20.91066090999668,0.09706956343157615,0.5068605830241099
+326,The Adventures of Jerry Muskrat,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___The Adventures of Jerry Muskrat.txt,15902,1024,15.529296875,0.08673848703988506,0.46027507658033995
+327,A Dog's Tale,Mark Twain,../data/gutenberg/Mark Twain___A Dog's Tale.txt,4397,117,37.58119658119658,0.1558787001964085,0.5591677890011224
+328,The Coast of Bohemia,William Dean Howells,../data/gutenberg/William Dean Howells___The Coast of Bohemia.txt,73166,4226,17.313298627543777,0.10588321828248812,0.49751468487767664
+329,"Passages from the French and Italian Notebooks, Complete",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___Passages from the French and Italian Notebooks, Complete.txt",170418,6172,27.61147116007777,0.13256666215701954,0.49193988892350904
+330,The Brown Fairy Book,Andrew Lang,../data/gutenberg/Andrew Lang___The Brown Fairy Book.txt,98159,4661,21.059643853250375,0.10582134234997685,0.49618385077133237
+331,A Naturalist's Voyage Round the World,Charles Darwin,../data/gutenberg/Charles Darwin___A Naturalist's Voyage Round the World.txt,213949,10196,20.98362102785406,0.09142082153521965,0.46421873215592907
+332,A Diversity of Creatures,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___A Diversity of Creatures.txt,106295,8481,12.533309751208584,0.060137815777684914,0.4557758202888711
+333,Rollo in Rome,Jacob Abbott,../data/gutenberg/Jacob Abbott___Rollo in Rome.txt,40909,2309,17.71719359029883,0.12867770074088322,0.47410782674811597
+334,"The Project Gutenberg Plays of John Galsworthy, Complete",John Galsworthy,"../data/gutenberg/John Galsworthy___The Project Gutenberg Plays of John Galsworthy, Complete.txt",311800,48689,6.403910534206905,0.0615204810002648,0.48363871701579514
+335,The Love of Ulrich Nebendahl,Jerome Klapka Jerome,../data/gutenberg/Jerome Klapka Jerome___The Love of Ulrich Nebendahl.txt,2652,162,16.37037037037037,0.0854972816781328,0.4853846945017162
+336,The Small House at Allington,Anthony Trollope,../data/gutenberg/Anthony Trollope___The Small House at Allington.txt,262300,15510,16.911669890393295,0.10930793923800834,0.5176838883677214
+337,He,Andrew Lang,../data/gutenberg/Andrew Lang___He.txt,14046,870,16.144827586206898,0.07144428555576,0.48109325720852586
+338,The Rover Boys In The Mountains,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Rover Boys In The Mountains.txt,52427,4301,12.18949081608928,0.07490867375335857,0.4667353409231106
+339,Memoirs of Mr. Charles J. Yellowplush,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___Memoirs of Mr. Charles J. Yellowplush.txt,59597,3118,19.113855035279023,0.11180400481188796,0.5059662045190272
+340,A Chapter of Adventures,George Alfred Henty,../data/gutenberg/George Alfred Henty___A Chapter of Adventures.txt,61363,3149,19.486503651953,0.07065627898716753,0.4460827374910285
+341,The Jungle Book,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___The Jungle Book.txt,51706,3204,16.137952559300874,0.03740099163602172,0.4545637425100307
+342,With Clive in India,George Alfred Henty,../data/gutenberg/George Alfred Henty___With Clive in India.txt,121555,5617,21.64055545664946,0.06655722401581338,0.42980130825060664
+343,Heart and Science,Wilkie Collins,../data/gutenberg/Wilkie Collins___Heart and Science.txt,131406,10485,12.532761087267525,0.05908759449299047,0.5109029305992379
+344,The Sketch Book of Geoffrey Crayon,Washington Irving,../data/gutenberg/Washington Irving___The Sketch Book of Geoffrey Crayon.txt,129243,4320,29.917361111111113,0.12081327056114714,0.48880341519998
+345,No Name,Wilkie Collins,../data/gutenberg/Wilkie Collins___No Name.txt,268690,15952,16.84365596790371,0.061925008059692525,0.4721258856451531
+346,Adventurers of the Far North,Stephen Leacock,../data/gutenberg/Stephen Leacock___Adventurers of the Far North.txt,32675,1756,18.60763097949886,0.08701283132248921,0.4789272277242097
+347,In Freedom's Cause,George Alfred Henty,../data/gutenberg/George Alfred Henty___In Freedom's Cause.txt,118545,4723,25.099513021384713,0.09435392775033476,0.44682060499781284
+348,The Guilty River,Wilkie Collins,../data/gutenberg/Wilkie Collins___The Guilty River.txt,45733,3070,14.896742671009772,0.06924536828280355,0.5230075375105252
+349,"Annajanska, the Bolshevik Empress",George Bernard Shaw,"../data/gutenberg/George Bernard Shaw___Annajanska, the Bolshevik Empress.txt",5190,690,7.521739130434782,0.12909085456944414,0.603599170910254
+350,In The Fourth Year,Herbert George Wells,../data/gutenberg/Herbert George Wells___In The Fourth Year.txt,36186,1437,25.181628392484342,0.09328441722050462,0.4512212432459116
+351,"Psmith, Journalist",P G Wodehouse,"../data/gutenberg/P G Wodehouse___Psmith, Journalist.txt",58211,5040,11.549801587301587,0.10651822528271598,0.4757225840213329
+352,Venetia,Benjamin Disraeli,../data/gutenberg/Benjamin Disraeli___Venetia.txt,161142,8759,18.397305628496404,0.14174183180626376,0.5460996456123769
+353,Confidence,Henry James,../data/gutenberg/Henry James___Confidence.txt,77156,4917,15.69168191986984,0.11602442877162365,0.53442693057247
+354,An African Millionaire,Grant Allen,../data/gutenberg/Grant Allen___An African Millionaire.txt,66854,4581,14.59375682165466,0.10371931602453048,0.4900445117054727
+355,Nada the Lily,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Nada the Lily.txt,117574,6309,18.635916944048184,0.06731983353798915,0.472774331566349
+356,The Land Of Heart's Desire,William Butler Yeats,../data/gutenberg/William Butler Yeats___The Land Of Heart's Desire.txt,4376,356,12.292134831460674,0.13301988196788847,0.4819773425807911
+357,The Paris Sketch Book Of Mr. M. A. Titmarsh,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___The Paris Sketch Book Of Mr. M. A. Titmarsh.txt,118978,4459,26.682664274501008,0.10758719443272839,0.5093995825302379
+358,The Vicar of Bullhampton,Anthony Trollope,../data/gutenberg/Anthony Trollope___The Vicar of Bullhampton.txt,212501,11711,18.145418836990864,0.09663861477114696,0.5080591013999968
+359,A Spoil of Office,Hamlin Garland,../data/gutenberg/Hamlin Garland___A Spoil of Office.txt,82285,5480,15.01551094890511,0.12378897319986301,0.49268066692245005
+360,Old Granny Fox,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___Old Granny Fox.txt,23306,1536,15.173177083333334,0.07522507404654931,0.48463626112627667
+361,"Critical Miscellanies, Volume 2, Essay 4, Joseph de Maistre",John Morley,"../data/gutenberg/John Morley___Critical Miscellanies, Volume 2, Essay 4, Joseph de Maistre.txt",21846,745,29.323489932885906,0.09486720194906773,0.4759818543294402
+362,"The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12)",Edmund Burke,"../data/gutenberg/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12).txt",154956,5367,28.87199552822806,0.1193154919334574,0.5034381956399043
+363,The Ballad of St. Barbara,G K Chesterton,../data/gutenberg/G K Chesterton___The Ballad of St. Barbara.txt,9767,244,40.028688524590166,0.0593188354142838,0.46622066867311435
+364,The Little Lady of the Big House,Jack London,../data/gutenberg/Jack London___The Little Lady of the Big House.txt,101933,6761,15.07661588522408,0.11550594401177144,0.45926711467083164
+365,"The Poetical Works of John Dryden, Volume 2",John Dryden,"../data/gutenberg/John Dryden___The Poetical Works of John Dryden, Volume 2.txt",99458,3635,27.36121045392022,0.15460078830869484,0.5103688565202761
+366,The Heritage of the Desert,Zane Grey,../data/gutenberg/Zane Grey___The Heritage of the Desert.txt,82139,6381,12.872433787807553,0.04568072106239739,0.4560243587198654
+367,Found At Blazing Star,Bret Harte,../data/gutenberg/Bret Harte___Found At Blazing Star.txt,12180,813,14.981549815498155,0.04524663325291554,0.4872240700307707
+368,Can You Forgive Her?,Anthony Trollope,../data/gutenberg/Anthony Trollope___Can You Forgive Her?.txt,321992,19427,16.57445822823905,0.09131332072160797,0.4964195780819444
+369,"Autobiography of Benjamin Franklin, Version 3",Benjamin Franklin,"../data/gutenberg/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 3.txt",74798,2595,28.82389210019268,0.14488294788133174,0.47535346372662823
+370,Major Barbara,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___Major Barbara.txt,33423,3857,8.665543168265492,0.08640936786137618,0.5033662974822694
+371,Six Months at the Cape,R M Ballantyne,../data/gutenberg/R M Ballantyne___Six Months at the Cape.txt,39555,1904,20.774684873949578,0.10471743107240063,0.49300182529559194
+372,The Two Sides of the Shield,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___The Two Sides of the Shield.txt,102070,5738,17.788428023701638,0.09060706084577398,0.5439243438421205
+373,The Rover Boys in the Land of Luck,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___The Rover Boys in the Land of Luck.txt,65824,4979,13.220325366539466,0.1055249970329376,0.45744478347998996
+374,The Silver Box,John Galsworthy,../data/gutenberg/John Galsworthy___The Silver Box.txt,19309,2884,6.695214979195562,0.0062544251483728445,0.5226201890402645
+375,Science in Arcady,Grant Allen,../data/gutenberg/Grant Allen___Science in Arcady.txt,84374,2640,31.959848484848486,0.10110843347226968,0.46235609951032564
+376,When the Sleeper Wakes,Herbert George Wells,../data/gutenberg/Herbert George Wells___When the Sleeper Wakes.txt,82943,6350,13.061889763779527,0.0535800276071799,0.4577765414751029
+377,In the Wrong Paradise,Andrew Lang,../data/gutenberg/Andrew Lang___In the Wrong Paradise.txt,57941,2695,21.49944341372913,0.062120569043193984,0.4863575163719248
+378,Blacky the Crow,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___Blacky the Crow.txt,23244,1516,15.33245382585752,0.06598193234366644,0.5024738233961876
+379,A Final Reckoning,George Alfred Henty,../data/gutenberg/George Alfred Henty___A Final Reckoning.txt,101790,5584,18.228868194842406,0.07004718256432414,0.48256613898921263
+380,Soul of a Bishop,Herbert George Wells,../data/gutenberg/Herbert George Wells___Soul of a Bishop.txt,80338,5126,15.672649239172845,0.07935485568389075,0.4950129302092099
+381,The Europeans,Henry James,../data/gutenberg/Henry James___The Europeans.txt,60156,4612,13.043365134431916,0.14390542188660874,0.5226957860525736
+382,"The Prose Works of Jonathan Swift, D.D., Volume 9",Jonathan Swift,"../data/gutenberg/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 9.txt",124843,5095,24.503042198233562,0.11719444552391804,0.4837421062839442
+383,The Adventures of Gerard,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___The Adventures of Gerard.txt,67511,4084,16.53060724779628,0.09218912364846774,0.4700701313947045
+384,"The Monkey's Paw, The Lady of the Barge and Others, Part 2",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Monkey's Paw, The Lady of the Barge and Others, Part 2.txt",4042,306,13.209150326797385,-0.004097215120837167,0.41643838080845985
+385,The Headsman,James Fenimore Cooper,../data/gutenberg/James Fenimore Cooper___The Headsman.txt,159336,5629,28.306271096109434,0.12389721585919727,0.5274853005595282
+386,"A Little Tour in France, Version 2",Henry James,"../data/gutenberg/Henry James___A Little Tour in France, Version 2.txt",75321,2482,30.346897663174857,0.12819525711711438,0.5025109147602037
+387,The Pupil,Henry James,../data/gutenberg/Henry James___The Pupil.txt,18839,673,27.9925705794948,0.10635571634816922,0.5223540467313376
+388,"The Wings of the Dove, Volume 2",Henry James,"../data/gutenberg/Henry James___The Wings of the Dove, Volume 2.txt",108997,6154,17.71156971075723,0.12723080524626368,0.5135540772985699
+389,Five O'Clock Tea,William Dean Howells,../data/gutenberg/William Dean Howells___Five O'Clock Tea.txt,6428,767,8.38070404172099,0.0728335602504176,0.5483243644017124
+390,Sunk at Sea,R M Ballantyne,../data/gutenberg/R M Ballantyne___Sunk at Sea.txt,26559,1178,22.545840407470287,0.07189751518369607,0.4898472784477259
+391,The Haunted Man and the Ghost's Bargin,Charles Dickens,../data/gutenberg/Charles Dickens___The Haunted Man and the Ghost's Bargin.txt,34399,2030,16.945320197044335,0.06214332466761157,0.4995791486686284
+392,Richard of Jamestown,James Otis,../data/gutenberg/James Otis___Richard of Jamestown.txt,30808,703,43.82361308677098,0.12900531748528388,0.4872925880482117
+393,Northanger Abbey,Jane Austen,../data/gutenberg/Jane Austen___Northanger Abbey.txt,78023,3609,21.619008035466887,0.13296224986911725,0.5324153680779681
+394,The Tale Of Peter Rabbit,Beatrix Potter,../data/gutenberg/Beatrix Potter___The Tale Of Peter Rabbit.txt,1015,60,16.916666666666668,0.05661102193876581,0.4316656311168504
+395,Ways of Wood Folk,William J Long,../data/gutenberg/William J Long___Ways of Wood Folk.txt,48047,2191,21.92925604746691,0.0813648352466864,0.47113056745481835
+396,An Unsocial Socialist,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___An Unsocial Socialist.txt,91295,5950,15.343697478991597,0.06806357379191721,0.5227695103865947
+397,"The Works of the Right Honourable Edmund Burke, Vol. 03 (of 12)",Edmund Burke,"../data/gutenberg/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 03 (of 12).txt",164740,5336,30.873313343328334,0.09702340670343072,0.48668942064477927
+398,Almayer's Folly,Joseph Conrad,../data/gutenberg/Joseph Conrad___Almayer's Folly.txt,63391,3631,17.45827595703663,0.05869251500219485,0.4829182681897786
+399,On the Duty of Civil Disobedience,Henry David Thoreau,../data/gutenberg/Henry David Thoreau___On the Duty of Civil Disobedience.txt,9396,353,26.61756373937677,0.11128186647141572,0.5087874071890459
+400,Mr. Grex of Monte Carlo,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___Mr. Grex of Monte Carlo.txt,94310,8131,11.598819333415324,0.08578003809643103,0.4973798506181296
+401,The History of Samuel Titmarsh,William Makepeace Thackeray,../data/gutenberg/William Makepeace Thackeray___The History of Samuel Titmarsh.txt,50706,2165,23.420785219399537,0.14289371699248637,0.5119104441613136
+402,"Critical Miscellanies, Volume 3, Essay 6, Harriet Martineau",John Morley,"../data/gutenberg/John Morley___Critical Miscellanies, Volume 3, Essay 6, Harriet Martineau.txt",9719,307,31.65798045602606,0.15018605255881384,0.49119007131730935
+403,The Bab Ballads,Sir William Schwenck Gilbert,../data/gutenberg/Sir William Schwenck Gilbert___The Bab Ballads.txt,20643,1083,19.060941828254848,0.08748881403651053,0.5487479285024729
+404,Odd Craft,William Wymark Jacobs,../data/gutenberg/William Wymark Jacobs___Odd Craft.txt,66655,4098,16.265251342118106,0.060637559250359074,0.48206580876844435
+405,A Fearful Responsibility and Other Stories,William Dean Howells,../data/gutenberg/William Dean Howells___A Fearful Responsibility and Other Stories.txt,54610,2919,18.70846180198698,0.09460550132704484,0.5005528615969698
+406,The Adventures of Johnny Chuck,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___The Adventures of Johnny Chuck.txt,16823,1133,14.848190644307149,0.110401833674323,0.5004984101201159
+407,"The Skipper’s Wooing, and The Brown Man’s Servant",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Skipper’s Wooing, and The Brown Man’s Servant.txt",44427,3069,14.476050830889541,0.03707637182076439,0.47959108295521585
+408,Thoughts on the Present Discontents,Edmund Burke,../data/gutenberg/Edmund Burke___Thoughts on the Present Discontents.txt,47096,1600,29.435,0.11451805158546856,0.5135954692195225
+409,"Keeping Watch, Night Watches, Part 2",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Keeping Watch, Night Watches, Part 2.txt",3688,273,13.50915750915751,0.021844370511195574,0.44320930653630336
+410,Redburn. His First Voyage,Herman Melville,../data/gutenberg/Herman Melville___Redburn. His First Voyage.txt,119445,4282,27.894675385333954,0.08911312720724147,0.4768553794710997
+411,The Bravest of the Brave,George Alfred Henty,../data/gutenberg/George Alfred Henty___The Bravest of the Brave.txt,91524,3604,25.39511653718091,0.08865508344174157,0.4512922694967093
+412,Minstrelsy of the Scottish border (2 of 3),Sir Walter Scott,../data/gutenberg/Sir Walter Scott___Minstrelsy of the Scottish border (2 of 3).txt,77138,3078,25.061078622482132,0.10970388246548367,0.4917220916240058
+413,"The Treaty With China, its Provisions Explained",Mark Twain,"../data/gutenberg/Mark Twain___The Treaty With China, its Provisions Explained.txt",7127,285,25.00701754385965,0.13481439393939398,0.4465293215331678
+414,The Harbours of England,John Ruskin,../data/gutenberg/John Ruskin___The Harbours of England.txt,20861,588,35.47789115646258,0.1255081138944441,0.4906517190033276
+415,Insectivorous Plants,Charles Darwin,../data/gutenberg/Charles Darwin___Insectivorous Plants.txt,160275,7129,22.482115303689156,0.060292505987091634,0.4188242006935579
+416,Little Daffydowndilly,Nathaniel Hawthorne,../data/gutenberg/Nathaniel Hawthorne___Little Daffydowndilly.txt,2591,123,21.065040650406505,0.1393981980276824,0.5080884760481175
+417,"Dixon's Return, Odd Craft, Part 10",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Dixon's Return, Odd Craft, Part 10.txt",4326,266,16.263157894736842,0.10904855717255246,0.4171067589074026
+418,Through the Fray,George Alfred Henty,../data/gutenberg/George Alfred Henty___Through the Fray.txt,104615,5016,20.856259968102073,0.06148699822978875,0.49897960577625694
+419,John Bull's Other Island,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___John Bull's Other Island.txt,37939,3933,9.646325959827104,0.07205327827750535,0.4965584272237286
+420,The Man Upstairs and Other Stories,P G Wodehouse,../data/gutenberg/P G Wodehouse___The Man Upstairs and Other Stories.txt,102333,9430,10.851855779427359,0.09509666163041816,0.5003986518035689
+421,The Gold Trail,Harold Bindloss,../data/gutenberg/Harold Bindloss___The Gold Trail.txt,108141,6259,17.27768014059754,0.05846517902002298,0.4712886656391748
+422,An Amateur Fireman,James Otis,../data/gutenberg/James Otis___An Amateur Fireman.txt,75146,3149,23.86344871387742,0.09479718731385378,0.48807181866228416
+423,Tam O'Shanter,Robert Burns,../data/gutenberg/Robert Burns___Tam O'Shanter.txt,1710,57,30.0,0.10012913620396528,0.5231643356643356
+424,Recalled to Life,Grant Allen,../data/gutenberg/Grant Allen___Recalled to Life.txt,54298,3641,14.912936006591595,0.0814050217496528,0.49834271652139317
+425,An Old-fashioned Girl,Louisa May Alcott,../data/gutenberg/Louisa May Alcott___An Old-fashioned Girl.txt,104572,4900,21.34122448979592,0.13565765045716138,0.5286391519482463
+426,"The Village Uncle (From ""Twice Told Tales"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___The Village Uncle (From ""Twice Told Tales"").txt",4691,154,30.461038961038962,0.0998343869827246,0.47511556928436766
+427,May-Day,Ralph Waldo Emerson,../data/gutenberg/Ralph Waldo Emerson___May-Day.txt,17182,772,22.256476683937823,0.11907656306105843,0.5132389834534352
+428,Vane of the Timberlands,Harold Bindloss,../data/gutenberg/Harold Bindloss___Vane of the Timberlands.txt,98551,6211,15.86717114796329,0.07117086761599822,0.47510454434286126
+429,The Sleeping Car,William Dean Howells,../data/gutenberg/William Dean Howells___The Sleeping Car.txt,8793,1029,8.545189504373178,0.06765195199765517,0.5083792048330091
+430,A Burlesque Autobiography,Mark Twain,../data/gutenberg/Mark Twain___A Burlesque Autobiography.txt,4915,280,17.553571428571427,0.11750023226703513,0.5452111846835468
+431,Three Men on the Bummel,Jerome Klapka Jerome,../data/gutenberg/Jerome Klapka Jerome___Three Men on the Bummel.txt,68189,3947,17.276159108183432,0.06873251748665696,0.4508872877170565
+432,A Book of Autographs,Nathaniel Hawthorne,../data/gutenberg/Nathaniel Hawthorne___A Book of Autographs.txt,6010,188,31.96808510638298,0.11964492585255297,0.4614763798662104
+433,The Voyage Out,Virginia Woolf,../data/gutenberg/Virginia Woolf___The Voyage Out.txt,139053,8392,16.569709246901812,0.0829365222224673,0.4977359888716697
+434,Satires of Circumstance,Thomas Hardy,../data/gutenberg/Thomas Hardy___Satires of Circumstance.txt,24054,1156,20.80795847750865,0.08379957867753064,0.4854343945544977
+435,Countess Kate,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___Countess Kate.txt,64496,2744,23.504373177842567,0.07959702631462089,0.5420047707983177
+436,Revolutionist's Handbook and Pocket Companion,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___Revolutionist's Handbook and Pocket Companion.txt,12803,359,35.66295264623955,0.08862772462084581,0.4615735687833717
+437,The Ruby of Kishmoor,Howard Pyle,../data/gutenberg/Howard Pyle___The Ruby of Kishmoor.txt,12405,454,27.323788546255507,0.09434523142584711,0.5325874326961276
+438,The Heroes,Charles Kingsley,../data/gutenberg/Charles Kingsley___The Heroes.txt,49421,1328,37.21460843373494,0.127930000546415,0.5102152006924624
+439,"Sketches in Lavender, Blue and Green",Jerome Klapka Jerome,"../data/gutenberg/Jerome Klapka Jerome___Sketches in Lavender, Blue and Green.txt",60647,3729,16.263609546795387,0.07499201271875162,0.49071261515325076
+440,Abbotsford and Newstead Abbey,Washington Irving,../data/gutenberg/Washington Irving___Abbotsford and Newstead Abbey.txt,49853,1711,29.136762127410872,0.14165554848461498,0.4916623386169939
+441,Alarms and Discursions,G K Chesterton,../data/gutenberg/G K Chesterton___Alarms and Discursions.txt,50738,2245,22.60044543429844,0.06514835731919766,0.4992494097063535
+442,"To the Gold Coast for Gold, Volume 2",Sir Richard Francis Burton,"../data/gutenberg/Sir Richard Francis Burton___To the Gold Coast for Gold, Volume 2.txt",92105,4796,19.204545454545453,0.07209941174379286,0.4348123667315337
+443,"The Changing Numbers, Odd Craft, Part 8",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Changing Numbers, Odd Craft, Part 8.txt",4248,330,12.872727272727273,0.014147527220254493,0.5231891118982034
+444,Victor Ollnee's Discipline,Hamlin Garland,../data/gutenberg/Hamlin Garland___Victor Ollnee's Discipline.txt,71065,5402,13.155312847093668,0.09227658937801078,0.5342732481651811
+445,Mary Queen of Scots,Jacob Abbott,../data/gutenberg/Jacob Abbott___Mary Queen of Scots.txt,53650,2328,23.04553264604811,0.1154431712922777,0.50264630662182
+446,Johnstone of the Border,Harold Bindloss,../data/gutenberg/Harold Bindloss___Johnstone of the Border.txt,89266,6081,14.679493504357836,0.0338393646250976,0.46865365029775324
+447,The Boys of ’98,James Otis,../data/gutenberg/James Otis___The Boys of ’98.txt,91427,3795,24.09143610013175,0.056730910150262576,0.38709137154414763
+448,"Dorothy's Double, Volume 3",George Alfred Henty,"../data/gutenberg/George Alfred Henty___Dorothy's Double, Volume 3.txt",41545,2012,20.648608349900595,0.08539127450074586,0.48524407053340946
+449,The Hand of Ethelberta,Thomas Hardy,../data/gutenberg/Thomas Hardy___The Hand of Ethelberta.txt,143981,7862,18.313533452047825,0.08091767552049021,0.48680834672525236
+450,A Boy's Will,Robert Frost,../data/gutenberg/Robert Frost___A Boy's Will.txt,5778,211,27.38388625592417,0.0862794102805264,0.49601716141001895
+451,From Sea to Sea,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___From Sea to Sea.txt,213473,10702,19.947019248738552,0.07933144709911588,0.4646644509990781
+452,Browning's Shorter Poems,Robert Browning,../data/gutenberg/Robert Browning___Browning's Shorter Poems.txt,50237,3169,15.852634900599558,0.12878674237310558,0.4722100014077924
+453,Stories of Red Hanrahan,William Butler Yeats,../data/gutenberg/William Butler Yeats___Stories of Red Hanrahan.txt,14746,399,36.957393483709275,0.0969392492309986,0.4510358388574081
+454,The Boy Scouts in A Trapper's Camp,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___The Boy Scouts in A Trapper's Camp.txt,71341,4339,16.44180686794192,0.08935730531781605,0.4469773019721221
+455,Queen Elizabeth,Jacob Abbott,../data/gutenberg/Jacob Abbott___Queen Elizabeth.txt,50787,2035,24.956756756756757,0.11275933415913976,0.5023626397381273
+456,Piper in the Woods,Philip Kindred Dick,../data/gutenberg/Philip Kindred Dick___Piper in the Woods.txt,7425,913,8.132530120481928,0.09809306053960666,0.4633034176167403
+457,The Coast of Adventure,Harold Bindloss,../data/gutenberg/Harold Bindloss___The Coast of Adventure.txt,90310,5986,15.086869361844304,0.05073466883042211,0.469530859253953
+458,"The Poems of Jonathan Swift, D.D., Volume 1",Jonathan Swift,"../data/gutenberg/Jonathan Swift___The Poems of Jonathan Swift, D.D., Volume 1.txt",97416,3871,25.16559028674761,0.117870971874039,0.5119873142317458
+459,The Cinema Murder,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___The Cinema Murder.txt,76297,6378,11.96252743806836,0.0799425730078802,0.4938791590726067
+460,The Early Poems of Alfred Lord Tennyson,Lord Tennyson,../data/gutenberg/Lord Tennyson___The Early Poems of Alfred Lord Tennyson.txt,104977,5389,19.47986639450733,0.12947321596569739,0.49823591094779385
+461,Under Western Eyes,Joseph Conrad,../data/gutenberg/Joseph Conrad___Under Western Eyes.txt,113625,8290,13.70627261761158,0.03692593680850921,0.5001395393913809
+462,Roundabout to Boston,William Dean Howells,../data/gutenberg/William Dean Howells___Roundabout to Boston.txt,7180,215,33.395348837209305,0.19309392260949354,0.48463319888492906
+463,Rose in Bloom,Louisa May Alcott,../data/gutenberg/Louisa May Alcott___Rose in Bloom.txt,96027,4228,22.712157048249765,0.19164372141920208,0.571890662601008
+464,"Modern Painters, Volume 2 (of 5)",John Ruskin,"../data/gutenberg/John Ruskin___Modern Painters, Volume 2 (of 5).txt",95339,3196,29.83072590738423,0.1170210984413267,0.52134628931128
+465,The Little Nugget,P G Wodehouse,../data/gutenberg/P G Wodehouse___The Little Nugget.txt,72644,6448,11.266129032258064,0.06953102314589536,0.48657866487615525
+466,Jungle Tales of Tarzan,Edgar Rice Burroughs,../data/gutenberg/Edgar Rice Burroughs___Jungle Tales of Tarzan.txt,74748,3564,20.973063973063972,0.06546935069184937,0.4933070645200328
+467,Write It Right,Ambrose Bierce,../data/gutenberg/Ambrose Bierce___Write It Right.txt,12443,1429,8.707487753673897,0.046520749776489616,0.49975790248111707
+468,Aunt Hannah and Seth,James Otis,../data/gutenberg/James Otis___Aunt Hannah and Seth.txt,22620,909,24.884488448844884,0.08343640899869437,0.504155007212469
+469,Dombey and Son,Charles Dickens,../data/gutenberg/Charles Dickens___Dombey and Son.txt,361188,17942,20.130866124177906,0.10026104705997256,0.5056313208506171
+470,Essays on some unsettled Questions of Political Economy,John Stuart Mill,../data/gutenberg/John Stuart Mill___Essays on some unsettled Questions of Political Economy.txt,50017,1451,34.470709855272226,0.0930198288050299,0.4364837590038974
+471,The Strength of the Strong,Jack London,../data/gutenberg/Jack London___The Strength of the Strong.txt,47358,2876,16.466620305980527,0.08025959699343016,0.4526374680373188
+472,The Mad King,Edgar Rice Burroughs,../data/gutenberg/Edgar Rice Burroughs___The Mad King.txt,93969,5778,16.26323987538941,0.05312184785264962,0.4503864328050735
+473,The Second Jungle Book,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___The Second Jungle Book.txt,64494,3705,17.40728744939271,0.04883327316258828,0.44836859459889966
+474,The Hound of the Baskervilles,Sir Arthur Conan Doyle,../data/gutenberg/Sir Arthur Conan Doyle___The Hound of the Baskervilles.txt,59704,3868,15.435367114788004,0.0670261522512151,0.49565361727072155
+475,Orange and Green,George Alfred Henty,../data/gutenberg/George Alfred Henty___Orange and Green.txt,95314,4274,22.300889096864765,0.0805372094278304,0.4374108128316259
+476,Vera,Oscar Wilde,../data/gutenberg/Oscar Wilde___Vera.txt,19996,2676,7.472346786248131,0.08314314762344477,0.5080317123412177
+477,The Enchanted Island of Yew,Lyman Frank Baum,../data/gutenberg/Lyman Frank Baum___The Enchanted Island of Yew.txt,37428,2179,17.176686553464894,0.13116066573696894,0.5105464254821448
+478,The Well-Beloved,Thomas Hardy,../data/gutenberg/Thomas Hardy___The Well-Beloved.txt,64090,3568,17.96244394618834,0.06462552624493477,0.4671889016353888
+479,"A Little Norsk; Or, Ol' Pap's Flaxen",Hamlin Garland,"../data/gutenberg/Hamlin Garland___A Little Norsk; Or, Ol' Pap's Flaxen.txt",30728,2047,15.01123595505618,0.0869911901649807,0.4921243314790177
+480,Kitty's Class Day And Other Stories,Louisa May Alcott,../data/gutenberg/Louisa May Alcott___Kitty's Class Day And Other Stories.txt,78947,3756,21.018903088391905,0.12138224843125585,0.5266685031257182
+481,Dave Porter at Star Ranch,Edward Stratemeyer,../data/gutenberg/Edward Stratemeyer___Dave Porter at Star Ranch.txt,65274,5387,12.116948208650454,0.0856527411312007,0.46134844106003303
+482,Island Life,Alfred Russel Wallace,../data/gutenberg/Alfred Russel Wallace___Island Life.txt,164898,7587,21.734282325029657,0.11231428878254987,0.4373638955278158
+483,An Essay On The American Contribution And The Democratic Idea,Winston Churchill,../data/gutenberg/Winston Churchill___An Essay On The American Contribution And The Democratic Idea.txt,16781,641,26.17940717628705,0.10514022915438842,0.4358197643809705
+484,Jacob's Room,Virginia Woolf,../data/gutenberg/Virginia Woolf___Jacob's Room.txt,55537,3412,16.27696365767878,0.06030372240372555,0.45472610497627713
+485,"Mother West Wind ""Where"" Stories",Thornton Waldo Burgess,"../data/gutenberg/Thornton Waldo Burgess___Mother West Wind ""Where"" Stories.txt",28931,1797,16.099610461880914,0.13445121345253438,0.4726018304605645
+486,"Bedridden and The Winter Offensive, Deep Waters, Part 8",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Bedridden and The Winter Offensive, Deep Waters, Part 8.txt",2919,296,9.861486486486486,0.07980665046454523,0.4454406217564114
+487,Further Foolishness,Stephen Leacock,../data/gutenberg/Stephen Leacock___Further Foolishness.txt,50080,4123,12.14649527043415,0.0899317906859204,0.4805337878873368
+488,A Journal of the Plague Year,Daniel Defoe,../data/gutenberg/Daniel Defoe___A Journal of the Plague Year.txt,94991,2013,47.188772975658225,0.05019887316489507,0.4993285865990981
+489,The Burgess Animal Book for Children,Thornton Waldo Burgess,../data/gutenberg/Thornton Waldo Burgess___The Burgess Animal Book for Children.txt,77948,5314,14.668423033496424,0.10511455590501198,0.4643132428121753
+490,"Prince Prigio From ""His Own Fairy Book""",Andrew Lang,"../data/gutenberg/Andrew Lang___Prince Prigio From ""His Own Fairy Book"".txt",18331,960,19.094791666666666,0.07365729316108495,0.5135924880171745
+491,"The Vigil, Night Watches, Part 8",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Vigil, Night Watches, Part 8.txt",3291,290,11.348275862068965,0.014485289842432702,0.4758808651665797
+492,The White Feather,P G Wodehouse,../data/gutenberg/P G Wodehouse___The White Feather.txt,45930,3880,11.837628865979381,0.08283372283402993,0.4698118205950071
+493,Fan,William Henry Hudson,../data/gutenberg/William Henry Hudson___Fan.txt,182890,8513,21.483613297309997,0.07474017551901485,0.5162228672100764
+494,My Garden Acquaintance,James Russell Lowell,../data/gutenberg/James Russell Lowell___My Garden Acquaintance.txt,7581,314,24.143312101910826,0.13820274807497016,0.4818891207557872
+495,A Footnote to History,Robert Louis Stevenson,../data/gutenberg/Robert Louis Stevenson___A Footnote to History.txt,62164,2550,24.378039215686275,0.06267010409588741,0.4455543802321983
+496,"Smith and the Pharaohs, and Other Tales",Henry Rider Haggard,"../data/gutenberg/Henry Rider Haggard___Smith and the Pharaohs, and Other Tales.txt",83955,4509,18.619427811044577,0.09348885893440503,0.496649949093371
+497,Venetian Life,William Dean Howells,../data/gutenberg/William Dean Howells___Venetian Life.txt,110648,3441,32.155768671897704,0.11622720630955276,0.5066230397619053
+498,"Fancy's Show-Box (From ""Twice Told Tales"")",Nathaniel Hawthorne,"../data/gutenberg/Nathaniel Hawthorne___Fancy's Show-Box (From ""Twice Told Tales"").txt",2277,96,23.71875,0.013208837075417378,0.50794452668805
+499,The Phantom Rickshaw and Other Ghost Stories,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___The Phantom Rickshaw and Other Ghost Stories.txt,46663,2709,17.22517534145441,0.04853549841764331,0.45837730200134486
+500,On Compromise,John Morley,../data/gutenberg/John Morley___On Compromise.txt,58499,1978,29.574823053589483,0.10133981059178651,0.4947933821185681
+501,The Trimmed Lamp,O Henry,../data/gutenberg/O Henry___The Trimmed Lamp.txt,58224,4095,14.218315018315018,0.09714531564274383,0.46395272977744123
+502,"Sentence Deferred, Sailor's Knots, Part 4",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Sentence Deferred, Sailor's Knots, Part 4.txt",4045,358,11.298882681564246,0.010332641450429909,0.49629934168395773
+503,"Husbandry, Deep Waters, Part 6",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Husbandry, Deep Waters, Part 6.txt",5273,362,14.566298342541437,0.010268366228070175,0.4785465051517684
+504,The Clever Woman of the Family,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___The Clever Woman of the Family.txt,184192,8546,21.553007254856073,0.10639969484364477,0.533234031267432
+505,Lorimer of the Northwest,Harold Bindloss,../data/gutenberg/Harold Bindloss___Lorimer of the Northwest.txt,123627,5860,21.096757679180886,0.06565007275942013,0.47042036376592006
+506,Maiwa's Revenge,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Maiwa's Revenge.txt,34804,1569,22.182281708094326,0.06834686368064091,0.4697472998406819
+507,Wildfire,Zane Grey,../data/gutenberg/Zane Grey___Wildfire.txt,103678,9349,11.089742218419083,0.04329515793150067,0.4886413434466163
+508,The Evil Genius,Wilkie Collins,../data/gutenberg/Wilkie Collins___The Evil Genius.txt,112035,8282,13.527529582226515,0.05753256793559142,0.516364217270016
+509,Memories and Portraits,Robert Louis Stevenson,../data/gutenberg/Robert Louis Stevenson___Memories and Portraits.txt,53217,1686,31.56405693950178,0.13706389501084212,0.49643395713701255
+510,Under the Redwoods,Bret Harte,../data/gutenberg/Bret Harte___Under the Redwoods.txt,64480,3216,20.049751243781095,0.05250851132479488,0.4766654962101406
+511,Twice Told Tales,Nathaniel Hawthorne,../data/gutenberg/Nathaniel Hawthorne___Twice Told Tales.txt,147600,6083,24.264343251685023,0.08592146173703967,0.486776317186392
+512,The Works of Lord Byron: Letters and Journals. Vol. 2,Lord Byron,../data/gutenberg/Lord Byron___The Works of Lord Byron: Letters and Journals. Vol. 2.txt,175978,9524,18.477320453590927,0.12608306381308962,0.47384436107337186
+513,The Rudder Grangers Abroad and Other Stories,Frank Richard Stockton,../data/gutenberg/Frank Richard Stockton___The Rudder Grangers Abroad and Other Stories.txt,54581,2721,20.05916942300625,0.10584768428535028,0.4922500133309672
+514,Edgar Allan Poe's Complete Poetical Works,Edgar Allan Poe,../data/gutenberg/Edgar Allan Poe___Edgar Allan Poe's Complete Poetical Works.txt,61811,3059,20.206276560967638,0.12517435887118686,0.5135634301187022
+515,Hume,Thomas Henry Huxley,../data/gutenberg/Thomas Henry Huxley___Hume.txt,63049,2095,30.094988066825774,0.09577298916361432,0.47301926744087647
+516,New Poems,D H Lawrence,../data/gutenberg/D H Lawrence___New Poems.txt,7568,337,22.456973293768545,0.03662569032054331,0.4339972935561177
+517,A Plea for Captain John Brown,Henry David Thoreau,../data/gutenberg/Henry David Thoreau___A Plea for Captain John Brown.txt,9249,436,21.21330275229358,0.11640269187482398,0.5241008402372043
+518,The Princess,Lord Tennyson,../data/gutenberg/Lord Tennyson___The Princess.txt,26926,777,34.653796653796654,0.108392389264899,0.4966792830954746
+519,Anticipations,Herbert George Wells,../data/gutenberg/Herbert George Wells___Anticipations.txt,80471,2350,34.242978723404256,0.09924682667975726,0.4633973949123003
+520,'He Giveth His Beloved Sleep',Elizabeth Barrett Browning,../data/gutenberg/Elizabeth Barrett Browning___'He Giveth His Beloved Sleep'.txt,544,42,12.952380952380953,0.34977607353583917,0.7239335664335667
+521,The Moving Finger,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___The Moving Finger.txt,73481,6655,11.041472577009767,0.07079338696265337,0.5105968361554712
+522,"Wine, Water, and Song",G K Chesterton,"../data/gutenberg/G K Chesterton___Wine, Water, and Song.txt",3979,145,27.44137931034483,0.12439381869679268,0.4637679369370822
+523,"An Essay Concerning Humane Understanding, Volume 1",John Locke,"../data/gutenberg/John Locke___An Essay Concerning Humane Understanding, Volume 1.txt",150467,4604,32.681798436142486,0.10023938650105488,0.45538259702079886
+524,Ragged Lady,William Dean Howells,../data/gutenberg/William Dean Howells___Ragged Lady.txt,92102,5196,17.725558121632023,0.11686166748311312,0.477430133414071
+525,The Chimes,Charles Dickens,../data/gutenberg/Charles Dickens___The Chimes.txt,33292,1697,19.618149675898646,0.09879474069267451,0.5125076101477504
+526,"The Portrait of a Lady, Volume 1",Henry James,"../data/gutenberg/Henry James___The Portrait of a Lady, Volume 1.txt",121041,7026,17.227583262169087,0.14175661068015075,0.5158716017191702
+527,The Ancestral Footstep (fragment),Nathaniel Hawthorne,../data/gutenberg/Nathaniel Hawthorne___The Ancestral Footstep (fragment).txt,31066,1021,30.427032321253673,0.07767893212978431,0.4571381377757238
+528,Father Damien,Robert Louis Stevenson,../data/gutenberg/Robert Louis Stevenson___Father Damien.txt,5670,195,29.076923076923077,0.09930122738436833,0.5319144436523191
+529,The Black Robe,Wilkie Collins,../data/gutenberg/Wilkie Collins___The Black Robe.txt,108695,8049,13.50416200770282,0.08293228685256086,0.5074166494921444
+530,Oldtown Fireside Stories,Harriet Elizabeth Beecher Stowe,../data/gutenberg/Harriet Elizabeth Beecher Stowe___Oldtown Fireside Stories.txt,33463,1395,23.987813620071684,0.14606934357257137,0.48601526315762544
+531,The Lion's Skin,Rafael Sabatini,../data/gutenberg/Rafael Sabatini___The Lion's Skin.txt,84919,6466,13.133158057531704,0.0719000319826789,0.4969686489962751
+532,The Fall of the House of Usher,Edgar Allan Poe,../data/gutenberg/Edgar Allan Poe___The Fall of the House of Usher.txt,7192,241,29.842323651452283,0.03827227274522044,0.5218153580342636
+533,Pepper & Salt,Howard Pyle,../data/gutenberg/Howard Pyle___Pepper & Salt.txt,29138,1698,17.160188457008246,0.13147373440527302,0.4911084046643946
+534,The Illustrious Prince,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___The Illustrious Prince.txt,88308,6684,13.211849192100539,0.10398952034749008,0.49579197282287196
+535,Second Thoughts are Best,Daniel Defoe,../data/gutenberg/Daniel Defoe___Second Thoughts are Best.txt,4842,148,32.71621621621622,0.10079131475856926,0.46281902116914686
+536,The Mill on the Floss,George Eliot,../data/gutenberg/George Eliot___The Mill on the Floss.txt,212140,8877,23.89771319139349,0.0880225155627556,0.5127099997002561
+537,"Susy, A Story of the Plains",Bret Harte,"../data/gutenberg/Bret Harte___Susy, A Story of the Plains.txt",50777,2539,19.99881843245372,0.06987544385644125,0.5086475530162656
+538,Androcles and the Lion,George Bernard Shaw,../data/gutenberg/George Bernard Shaw___Androcles and the Lion.txt,16583,1751,9.470588235294118,0.06776904383616934,0.513153348971763
+539,State of the Union Addresses,Abraham Lincoln,../data/gutenberg/Abraham Lincoln___State of the Union Addresses.txt,27471,938,29.28678038379531,0.1255947224624012,0.445574255101372
+540,Anna the Adventuress,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___Anna the Adventuress.txt,64484,6103,10.565951171554973,0.07882339388871157,0.5020289111537912
+541,Saint Bartholomew's Eve,George Alfred Henty,../data/gutenberg/George Alfred Henty___Saint Bartholomew's Eve.txt,146408,7030,20.826173541963016,0.10970580848391866,0.472949989251165
+542,Discipline and Other Sermons,Charles Kingsley,../data/gutenberg/Charles Kingsley___Discipline and Other Sermons.txt,57738,2168,26.631918819188193,0.14224703714345266,0.5437735333504832
+543,Stories of New Jersey,Frank Richard Stockton,../data/gutenberg/Frank Richard Stockton___Stories of New Jersey.txt,61028,1978,30.853387259858444,0.1348116045063822,0.4865232242414144
+544,The Barbarism of Berlin,G K Chesterton,../data/gutenberg/G K Chesterton___The Barbarism of Berlin.txt,11721,511,22.937377690802347,0.029123457530449592,0.44271969601784866
+545,"An Adulteration Act, The Lady of the Barge and Others, Part 10",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___An Adulteration Act, The Lady of the Barge and Others, Part 10.txt",3934,293,13.426621160409557,-0.003763563738892684,0.45691705589731907
+546,Charmides and Other Poems,Oscar Wilde,../data/gutenberg/Oscar Wilde___Charmides and Other Poems.txt,12285,329,37.340425531914896,0.06792929516939412,0.49295819535041674
+547,"The Vision of Sir Launfal And Other Poems, Version 1",James Russell Lowell,"../data/gutenberg/James Russell Lowell___The Vision of Sir Launfal And Other Poems, Version 1.txt",33795,1552,21.775128865979383,0.15670468809674748,0.4964159250092561
+548,The Adventures of Captain Horn,Frank Richard Stockton,../data/gutenberg/Frank Richard Stockton___The Adventures of Captain Horn.txt,126664,6063,20.89130793336632,0.09522770139546527,0.47636790262876905
+549,Shorter Prose Pieces,Oscar Wilde,../data/gutenberg/Oscar Wilde___Shorter Prose Pieces.txt,12334,312,39.532051282051285,0.14710659334446616,0.5161921672854509
+550,Life's Handicap,Rudyard Kipling,../data/gutenberg/Rudyard Kipling___Life's Handicap.txt,108222,6716,16.11405598570578,0.05879861120064194,0.46470034220386086
+551,The Long Vacation,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___The Long Vacation.txt,91734,5070,18.093491124260353,0.1168332047607026,0.5142936734136467
+552,The Stokesley Secret,Charlotte Mary Yonge,../data/gutenberg/Charlotte Mary Yonge___The Stokesley Secret.txt,61710,3038,20.312705727452272,0.07820410491586893,0.5252729748974894
+553,The Author Of Beltraffio,Henry James,../data/gutenberg/Henry James___The Author Of Beltraffio.txt,19457,860,22.62441860465116,0.11724143646090793,0.521650966443019
+554,Biographies of Working Men,Grant Allen,../data/gutenberg/Grant Allen___Biographies of Working Men.txt,47730,1586,30.094577553593947,0.1691722250459954,0.5129804993137868
+555,The Heritage of Dedlow Marsh and Other Tales,Bret Harte,../data/gutenberg/Bret Harte___The Heritage of Dedlow Marsh and Other Tales.txt,50087,2611,19.18307162006894,0.06165074134337055,0.49342630279786553
+556,"Floor Games; a companion volume to ""Little Wars""",Herbert George Wells,"../data/gutenberg/Herbert George Wells___Floor Games; a companion volume to ""Little Wars"".txt",6804,287,23.70731707317073,0.07406933824902574,0.46633114961239963
+557,The Yellow Fairy Book,Andrew Lang,../data/gutenberg/Andrew Lang___The Yellow Fairy Book.txt,111918,5303,21.104657740901377,0.12370573094115174,0.5056369174960793
+558,A Hazard of New Fortunes,William Dean Howells,../data/gutenberg/William Dean Howells___A Hazard of New Fortunes.txt,169901,9496,17.891849199663017,0.10751468841256508,0.48910793329531244
+559,Dracula's Guest,Bram Stoker,../data/gutenberg/Bram Stoker___Dracula's Guest.txt,57913,2867,20.19986048133938,0.06065989581265011,0.4846138014946557
+560,The Mysterious Rider,Zane Grey,../data/gutenberg/Zane Grey___The Mysterious Rider.txt,98685,9083,10.86480237806892,0.06406759626716571,0.50098708674737
+561,Stella Fregelius,Henry Rider Haggard,../data/gutenberg/Henry Rider Haggard___Stella Fregelius.txt,100426,5287,18.994893134102515,0.07994518119398183,0.5132576491300729
+562,A Millionaire of Yesterday,Edward Phillips Oppenheim,../data/gutenberg/Edward Phillips Oppenheim___A Millionaire of Yesterday.txt,75511,5731,13.175885534810678,0.06672929552145167,0.49663437438499325
+563,The Works of John Bunyan,John Bunyan,../data/gutenberg/John Bunyan___The Works of John Bunyan.txt,2246879,92130,24.388136329100185,0.14485710233265808,0.5219900481314536
+564,Fast in the Ice,R M Ballantyne,../data/gutenberg/R M Ballantyne___Fast in the Ice.txt,28513,1614,17.666047087980175,0.06185072075436842,0.4752255999508154
+565,The Last Trail,Zane Grey,../data/gutenberg/Zane Grey___The Last Trail.txt,73147,5647,12.953249513015761,0.06637563623176414,0.499109290515857
+566,To the Last Man,Zane Grey,../data/gutenberg/Zane Grey___To the Last Man.txt,97329,8055,12.083054003724396,0.019940606241050766,0.4812900678930502
+567,"The Convert, Deep Waters, Part 5",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___The Convert, Deep Waters, Part 5.txt",4212,393,10.717557251908397,0.08489455049261084,0.5054679180972282
+568,The Tale of Tom Kitten,Beatrix Potter,../data/gutenberg/Beatrix Potter___The Tale of Tom Kitten.txt,780,51,15.294117647058824,0.04392260067607291,0.4884714873603761
+569,North America Volume 1,Anthony Trollope,../data/gutenberg/Anthony Trollope___North America Volume 1.txt,142958,6039,23.672462328200034,0.11861882011062316,0.4699878236000174
+570,The Eagle's Heart,Hamlin Garland,../data/gutenberg/Hamlin Garland___The Eagle's Heart.txt,82164,5292,15.526077097505668,0.08409244720390013,0.49899583222149524
+571,"Critical Miscellanies, Volume 3, Essay 9, The Expansion of England",John Morley,"../data/gutenberg/John Morley___Critical Miscellanies, Volume 3, Essay 9, The Expansion of England.txt",11804,399,29.583959899749374,0.13222777748345926,0.4663676853449576
+572,"The Writings of Abraham Lincoln, Volume 7: 1863-1865",Abraham Lincoln,"../data/gutenberg/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 7: 1863-1865.txt",78643,3781,20.79952393546681,0.11849305048314321,0.4512304162857753
+573,Lost in the Forest,R M Ballantyne,../data/gutenberg/R M Ballantyne___Lost in the Forest.txt,26479,1122,23.599821746880572,0.07170495016358423,0.48561875022252415
+574,Cambridge Neighbors,William Dean Howells,../data/gutenberg/William Dean Howells___Cambridge Neighbors.txt,12348,367,33.64577656675749,0.17101178115041893,0.5132667197545463
+575,The Art of Travel,Sir Francis Galton,../data/gutenberg/Sir Francis Galton___The Art of Travel.txt,130146,5734,22.697244506452737,0.07453978609147906,0.46062579527462383
+576,Among Malay Pirates,George Alfred Henty,../data/gutenberg/George Alfred Henty___Among Malay Pirates.txt,68060,2968,22.931266846361186,0.06870172246481075,0.4486153782174895
+577,The Lamplighter,Charles Dickens,../data/gutenberg/Charles Dickens___The Lamplighter.txt,7121,396,17.982323232323232,0.1232466968795093,0.49442991221741145
+578,The Shadow World,Hamlin Garland,../data/gutenberg/Hamlin Garland___The Shadow World.txt,68677,4307,15.945437659623868,0.0979745318248404,0.5008227617503466
+579,"The Collected Works of Ambrose Bierce, Volume 2",Ambrose Bierce,"../data/gutenberg/Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 2.txt",77116,3690,20.898644986449863,0.056923452670811656,0.478970375776677
+580,The Complete Poetical Works of James Russell Lowell,James Russell Lowell,../data/gutenberg/James Russell Lowell___The Complete Poetical Works of James Russell Lowell.txt,285077,9486,30.052393000210838,0.11922836301109906,0.4996529329099839
+581,The Fortunes and Misfortunes of the Famous Moll Flanders,Daniel Defoe,../data/gutenberg/Daniel Defoe___The Fortunes and Misfortunes of the Famous Moll Flanders.txt,138546,3556,38.96119235095613,0.12406226226804987,0.5115914694502599
+582,The Suitors of Yvonne,Rafael Sabatini,../data/gutenberg/Rafael Sabatini___The Suitors of Yvonne.txt,61956,3597,17.22435362802335,0.0673957522818551,0.480626453709335
+583,Louisa Pallant,Henry James,../data/gutenberg/Henry James___Louisa Pallant.txt,15671,785,19.963057324840765,0.0990125977768021,0.5192059924503104
+584,The Island Queen,R M Ballantyne,../data/gutenberg/R M Ballantyne___The Island Queen.txt,57825,2830,20.43286219081272,0.09029814281809688,0.49151984297928597
+585,Moments of Vision,Thomas Hardy,../data/gutenberg/Thomas Hardy___Moments of Vision.txt,24532,1127,21.767524401064772,0.07166549614816096,0.4623241421127931
+586,The Tangled Skein,Baronness Orczy,../data/gutenberg/Baronness Orczy___The Tangled Skein.txt,87192,7042,12.381709741550695,0.11321106540478562,0.5421537084155003
+587,Lord Tony's Wife,Baronness Orczy,../data/gutenberg/Baronness Orczy___Lord Tony's Wife.txt,90576,4825,18.77222797927461,0.04722691107300266,0.5102271404013089
+588,"History of Friedrich II of Prussia, Appendix",Thomas Carlyle,"../data/gutenberg/Thomas Carlyle___History of Friedrich II of Prussia, Appendix.txt",8730,907,9.625137816979052,0.1364561908019105,0.4684490500035644
+589,"Critical Miscellanies, Volume 1, Essay 5, Emerson",John Morley,"../data/gutenberg/John Morley___Critical Miscellanies, Volume 1, Essay 5, Emerson.txt",14579,561,25.98752228163993,0.1586591287794781,0.5081939854861074
+590,Robert Browning,G K Chesterton,../data/gutenberg/G K Chesterton___Robert Browning.txt,60949,2554,23.864134690681283,0.13909505875291575,0.5294181165142151
+591,The Boy Ranchers of Puget Sound,Harold Bindloss,../data/gutenberg/Harold Bindloss___The Boy Ranchers of Puget Sound.txt,104583,5951,17.574021172912115,0.046327854409660314,0.4583586861481531
+592,Selections from the Poems and Plays of Robert Browning,Robert Browning,../data/gutenberg/Robert Browning___Selections from the Poems and Plays of Robert Browning.txt,108070,5391,20.04637358560564,0.13243722722820736,0.47342187574097644
+593,"Stepping Backwards, Night Watches, Part 5",William Wymark Jacobs,"../data/gutenberg/William Wymark Jacobs___Stepping Backwards, Night Watches, Part 5.txt",3543,333,10.63963963963964,0.10657686445957379,0.48631400537788183
+594,Ballads,Robert Louis Stevenson,../data/gutenberg/Robert Louis Stevenson___Ballads.txt,16005,612,26.151960784313726,0.08424484469592322,0.5155360264735255
+595,Winning His Spurs,George Alfred Henty,../data/gutenberg/George Alfred Henty___Winning His Spurs.txt,96780,3836,25.229405630865486,0.10007739759568296,0.4811714111073009
+596,Henrietta Temple,Benjamin Disraeli,../data/gutenberg/Benjamin Disraeli___Henrietta Temple.txt,143347,9568,14.981918896321071,0.18315956341027462,0.5615980398410607
+597,Ivanhoe,Sir Walter Scott,../data/gutenberg/Sir Walter Scott___Ivanhoe.txt,194211,6742,28.80614061109463,0.12264162039611225,0.5095732547210746
+598,The Teacher,Jacob Abbott,../data/gutenberg/Jacob Abbott___The Teacher.txt,114397,5293,21.612884942376724,0.10676745909419585,0.49096954325738185
+599,The Call of the Canyon,Zane Grey,../data/gutenberg/Zane Grey___The Call of the Canyon.txt,74876,6009,12.460642369778665,0.064267049351386,0.5096755189552418
+600,Dryden's Works Vol. 4 (of 18),John Dryden,../data/gutenberg/John Dryden___Dryden's Works Vol. 4 (of 18).txt,117473,6094,19.27682966852642,0.14961042200523014,0.5297296695041095
+601,The Freelands,John Galsworthy,../data/gutenberg/John Galsworthy___The Freelands.txt,101986,6528,15.622855392156863,0.06947057550359692,0.4955399022332491
+602,A Protegee of Jack Hamlin's and Other Stories,Bret Harte,../data/gutenberg/Bret Harte___A Protegee of Jack Hamlin's and Other Stories.txt,55998,3076,18.20481144343303,0.07000373337374537,0.4759908927062778
+603,"Critical Miscellanies, Volume 1, Essay 3, Byron",John Morley,"../data/gutenberg/John Morley___Critical Miscellanies, Volume 1, Essay 3, Byron.txt",12815,371,34.54177897574124,0.13448573180372075,0.5005825111372103
+604,"Sunny Memories Of Foreign Lands, Volume 2 (of 2)",Harriet Elizabeth Beecher Stowe,"../data/gutenberg/Harriet Elizabeth Beecher Stowe___Sunny Memories Of Foreign Lands, Volume 2 (of 2).txt",120813,5657,21.356372635672617,0.14886119661019206,0.49251830982710865
+605,What Every Woman Knows,James Matthew Barrie,../data/gutenberg/James Matthew Barrie___What Every Woman Knows.txt,26830,3699,7.253311705866451,0.11703926112200766,0.524710845173089
+606,Martin Rattler,R M Ballantyne,../data/gutenberg/R M Ballantyne___Martin Rattler.txt,60694,2647,22.929353985644127,0.09351640713169597,0.4870793318943535
