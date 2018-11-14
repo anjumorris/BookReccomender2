@@ -1,0 +1,8 @@
+# ignore macOS hidden files
+*.DS_Store
+
+# ignore compiled Python files
+*.pyc
+
+# ignore ipython checkpoints
+.ipynb_checkpoints
