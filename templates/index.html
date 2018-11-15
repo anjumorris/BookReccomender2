@@ -1,0 +1,50 @@
+<html>
+
+<body>
+  Find a free book from an excerpt
+  <textarea rows="30" cols="80">
+  Paste an excerpt.
+</textarea><br><br>
+
+
+  <div>
+    <button id="submit">Find Book</button>
+  </div><br><br>
+
+  Here is a similar free book:
+  <table>
+    <tr><td>You can read this</td><td id="soft_predict"></td></tr>
+  </table>
+
+</body>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script>
+
+  $('#submit').click( () => { cool(); } );
+
+  function cool(){
+    let features = {
+      'excerpt': $('textarea').val(),
+    }
+    console.log(features);
+
+    $.ajax({
+      type: "POST",
+      contentType: "application/json; charset=utf-8",
+      url: "/predict",  // Replace with URL of POST handler
+      dataType: "json",
+      async: true,
+      data: JSON.stringify(features),
+      success: (result) => {
+        $('#soft_predict').html(result['similar_book']);
+      },
+      error: (result) => {
+        alert('I dunno what you did');
+      }
+    })
+
+  }
+
+  </script>
+
+</html>
