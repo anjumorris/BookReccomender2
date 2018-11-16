@@ -40,7 +40,7 @@ def find_book(features):
     # vectorize + topic model
     vector = vectorizer.transform([piece])
     topic_vector = model.transform(vector)
-    df_excerpt_a = pd.DataFrame(topic_vector, columns=['topic_'+ str(i)for i in range(1,21)])
+    df_excerpt_a = pd.DataFrame(topic_vector, columns=['topic_'+ str(i)for i in range(1,16)])
 
     # sentiment stuff
     book_excerpt = TextBlob(piece)
@@ -68,7 +68,7 @@ def find_book(features):
     df_excerpt[column_names_to_normalize] = df_temp
 
     # log transform topics
-    df_excerpt.loc[:,'topic_1':'topic_20'] = df_excerpt.loc[:,'topic_1':'topic_20'].apply(np.log)
+    df_excerpt.loc[:,'topic_1':'topic_15'] = df_excerpt.loc[:,'topic_1':'topic_15'].apply(np.log)
 
     # load the mother load aka the corpus vector
     #import os
