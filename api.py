@@ -36,7 +36,6 @@ def find_book(features):
 
 
     piece = 'input_sample.txt'
-    #piece ='./data/samples/fifty_shades.txt'
     piece_str = features['excerpt']
     print(piece_str)
     fout = open(piece,'w')
