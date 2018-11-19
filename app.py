@@ -75,7 +75,7 @@ def find_book(features):
 
     #print("Path at terminal when executing this file")
     #print(os.getcwd() + "\n")
-    corpus = pd.read_csv('/Users/user/Documents/Data_Science/Github/BookReccomender2/data/final_train.csv')
+    corpus = pd.read_csv('/Users/user/Documents/Data_Science/Github/BookReccomender2/data/final_full.csv')
     corpus = corpus.drop(columns ='Unnamed: 0')
 
     # columns to drop before finding similarity
