@@ -104,7 +104,7 @@
 > 6. **docs** - documents 
 >
 >    1. Proposal - proposal_project_fletcher.pdf
->    2. Presentation -book_PPT .pdf
+>    2. Presentation -PPT_book_recommender .pdf
 >    3. Summary - Summary_Book_recommender.pdf
 >
 
