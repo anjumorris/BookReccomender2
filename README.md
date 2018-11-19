@@ -113,5 +113,5 @@
 > #### How to run ?
 >
 > 1. Run the following code notebooks - featurize_cluster.ipynb , similarity.ipynb
-> 2. Run flask app -> python app.py
+> 2. Run flask app -> python app.py paste http://127.0.0.1:5000/static/index.html in browser.
 
